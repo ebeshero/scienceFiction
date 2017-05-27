@@ -1,5 +1,5 @@
-# Fall 2017 Science Fiction Course
-## Tentative Reading Schedule
+## Fall 2017 Science Fiction Course
+## Reading Schedule
 *Assignments to be added*
 
 ### Week 1
