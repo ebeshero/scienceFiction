@@ -11,6 +11,7 @@
 2017-09-05	T *War of the Worlds*, to the end of Book II Ch. III (to p. 154)
 
 2017-09-07	H Finish *War of the Worlds*
+
 *Note: Add/Drop ends on F 09-08*
 
 ### Week 3
