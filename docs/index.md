@@ -35,7 +35,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 2017-09-14	H *Do Androids Dream of Electric Sheep?* Chs. 5-13 (to p. 153)
 
 ### Week 4
-2017-09-19	T Finish *Do Androids Dream of Electric Sheep?* Start Arthur C. Clarke, *2001: A Space Odyssey*, Foreword (pp. xix-xx) and Chs. 1 - 5
+2017-09-19	T Finish *Do Androids Dream of Electric Sheep?*  Start Arthur C. Clarke, *2001: A Space Odyssey*, Foreword (pp. xix-xx) and Chs. 1 - 5
 
 2017-09-21	H *2001: A Space Odyssey*, to the end of Ch. 17
 

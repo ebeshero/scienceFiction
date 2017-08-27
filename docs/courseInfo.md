@@ -14,6 +14,7 @@
 [Elisa Beshero-Bondar](http://newtfire.org/courses/)
 
 Office Hours in FOB 204:
+
 * Wed. 3 - 4:30 pm
 * Thurs. 2:30 - 4:30 PM
 * and by appointment
@@ -31,6 +32,34 @@ This course looks backward on “speculative fiction” from a twenty-first-cent
 * **Researching and Writing in Digital Modes:** Gain experience with digital tools while investigating and writing about SF, and gain experience with writing some science fiction yourself.
 
 ### Texts to purchase
+Here is the list of books in the order we are reading them:
+
+1. H. G. Wells, *The War of the Worlds*, Ed. Martin A. Danahay (Broadview, 2003) 
+ISBN: 978-1551113531 
+
+1. Philip K. Dick, *Do Androids Dream of Electric Sheep?*  New York: Random House (DelRey), 1996.  ISBN: 978-0345404473
+
+1. Arthur C. Clarke, *2001: A Space Odyssey*. New York: Penguin (Roc), 2000. 
+ISBN: 978-0451457998
+
+1. Alan Moore, *Watchmen*. New York: DC Comics, 2014. (Paperback ed.) 
+ISBN: 978-1401245252
+
+1. Margaret Atwood, *The Handmaid’s Tale*. Anchor, 1998. ISBN: 978-0385490818 
+
+1. Octavia E. Butler, *Lilith’s Brood*. New York: Grand Central Publishing, 2000. 
+ISBN: 978-0446676106
+
+1. Paolo Bacigalupi, *The Windup Girl*. Night Shade Books, 2015 (Reissue edition). 
+ISBN: 978-1597808217
+
+### 
+
+
+
+. 
+
+
 
 
 
