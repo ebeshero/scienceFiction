@@ -3,6 +3,7 @@
 
 *Autumn 2017; Class meets T H 1 -2:15 pm in 111 Powers Hall*
 
+## [Schedule of Readings and Assignments](index.md)
 ### Course enrollment and electives info:
 * Englit 0626: course registration number: 29034
 * Satisfies the **LT** general education requirement at Pitt-Greensburg
