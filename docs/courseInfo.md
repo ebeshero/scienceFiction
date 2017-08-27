@@ -27,7 +27,7 @@ This course looks backward on “speculative fiction” from a twenty-first-cent
 * **Learn about Media:** Consider science fiction’s range of genre and media production
 * **Improve Close Reading and Critical Thinking Skills:** Gain skills in analyzing language, imagery, character, and narrative structure
 * **Conversation and Comprehension:** Engage in class discussions and conduct your own conversation with the texts to enhance your comprehension of the course material
-* **Researching and Writing in Digital Modes:** Gain experience with digital tools in iunvestigating and writing about SF, and with writing science fiction yourself.
+* **Researching and Writing in Digital Modes:** Gain experience with digital tools while investigating and writing about SF, and gain experience with writing some science fiction yourself.
 
 ### Texts to purchase
 
