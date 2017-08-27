@@ -1,6 +1,16 @@
-## Fall 2017 Science Fiction Course
+# Science Fiction Course
+## Pitt-Greensburg, Autumn 2017
+
+*Class meets T H 1 -2:15 pm in 111 Powers Hall*
+
+Prof. Elisa Beshero-Bondar, PhD
+E-mail: ebb8 at pitt.edu
+Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appointment
+
+## [Course Information and Policies](courseInfo.md)
+
 ## Reading Schedule
-*Assignments to be added*
+*Complete readings and assignments **before** the dates on which they are scheduled below.*
 
 ### Week 1
 2017-08-29	T Welcome to the course! Intro to science fiction and H. G. Wells
