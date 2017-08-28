@@ -88,5 +88,19 @@ I expect that you will carefully edit and proofread your documents, and that you
 #### Academic Dishonesty and Plagiarism
 Plagiarism falsely represents another source’s words or ideas as your own, and, if you commit plagiarism in this course, you will receive a final course grade of F and be reported to the Vice President of Academic Affairs. Representing the voice of another individual as your own voice constitutes plagiarism, however generous that person may be in "helping" you with an assignment. To avoid plagiarism, cite your sources whenever you quote, paraphrase, or summarize material, or use digital images from any outside source (including websites, articles, books, course readings, Courseweb postings, or someone else’s notes). Turning in an assignment generated collectively under the name of a single individual is considered plagiarism. When instructed to collaborate on a project, project collaborators share collective authorship and should identify themselves directly as a team. When using the "copy" and "paste" features as you read and research, be sure that you are carefully marking that these passages are unprocessed from their source, so that you know to process it later. Forgetting to do so not only produces sloppy work but (whether you intended it or not) results in a false representation. As long as you make a good faith and clear effort to cite your sources, you will not be faulted for plagiarism, but your work will be penalized if citations are inaccurate, unclear, or lack important information. Cheating on exams or exercises will also receive a final course grade of F and be reported to the Vice President of Academic Affairs.
 
+### Online Policies
 
+#### GitHub and Courseweb:
+
+* Changes to the course schedule, assignments, some course readings, slide notes, and review guides for the class will be regularly posted here on our GitHub Pages site. As we proceed, we will be experimenting with digital tools, and I will post guidelines and resources to help with these on our GitHub pages site.
+* I will use Courseweb Announcements to reach all of you when I make a change, and I will use Courseweb's Grade Center to record your scores and grades. Login to Courseweb using your Pitt userid and password (the same one you use for your e-mail). All courses you’re enrolled in that have Courseweb materials should be listed. Courseweb link:  http://courseweb.pitt.edu
+* Assignment submissions will typically be online. Look for instructiosn on how to post, submit, or otherwise make your digital work avaialble for me to access and evaluate. 
+
+#### E-mail Correspondence
+I frequently send announcements to my classes through Courseweb, which also conveniently forwards them to **your pitt.edu e-mail addresses**. To make sure you’re receiving my announcements, **find out whether your pitt.edu account is active and functioning, and get in the habit of checking your messages daily**. If you are forwarding your pitt.edu messages to another account, make sure your forwarding works. All of my announcements will also be posted on the Courseweb announcement page.
+
+Send e-mail to me when you have questions or want to meet with me, but please identify yourself by name (first and last), and provide a Subject Line when you do so.  I prefer you do not submit your papers to me by e-mail; see directions below for submitting assignments in print and online.
+
+#### Disability Services:
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Director of the Learning Resources Center, Dr. Lou Ann Sears, Room 240 Millstein Library Building (724) 836-7098 (voice) or los3 at pitt.edu as early as possible in the term. Learning Resources Center will verify your disability and determine reasonable accommodations for this course.
 
