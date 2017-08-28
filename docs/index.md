@@ -15,7 +15,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 *Complete readings and assignments **before** the dates on which they are scheduled below.*
 
 ***Bookmark this page!** Updates and revisions will be announced in class and via Courseweb announcements (sent to your pitt.edu e-mail address).*
-*This syllabus address: https://ebeshero.github.io/scienceFiction/  Courseweb address: https://courseweb.pitt.edu* 
+*This syllabus address: [https://ebeshero.github.io/scienceFiction/](https://ebeshero.github.io/scienceFiction/)  Courseweb address: [https://courseweb.pitt.edu](https://courseweb.pitt.edu)* 
 
 ### Week 1
 2017-08-29	T Welcome to the course! Intro to science fiction and H. G. Wells
