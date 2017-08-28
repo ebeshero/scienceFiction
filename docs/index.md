@@ -83,7 +83,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 ### Week 13
 2017-11-21	T Start Paolo Bacigalupi, *The Windup Girl*, Chs. 1-5;
 
-2017-11-23	H NO CLASS TODAY: HAPPY THANKSGIVING!
+2017-11-23	H **Thanksgiving Recess (no classes today)** 
 
 ### Week 14
 2017-11-28	T *The Windup Girl*, Chs. 6-12
