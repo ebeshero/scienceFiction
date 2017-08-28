@@ -14,7 +14,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 ## Reading Schedule
 *Complete readings and assignments **before** the dates on which they are scheduled below.*
 
-*Bookmark this page! Updates and revisions will be announced in class and via Courseweb announcements (sent to your pitt.edu e-mail address).*
+***Bookmark this page!** Updates and revisions will be announced in class and via Courseweb announcements (sent to your pitt.edu e-mail address).*
 *This syllabus address: https://ebeshero.github.io/scienceFiction/  Courseweb address: https://courseweb.pitt.edu* 
 
 ### Week 1
@@ -25,24 +25,23 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 ### Week 2
 2017-09-05	T *War of the Worlds*, to the end of Book II Ch. III (to p. 154)
 
-2017-09-07	H Finish *War of the Worlds*
-
+2017-09-07	H Finish *War of the Worlds*; **Short(Reflective) Exercise due**
 *Note: Add/Drop ends on F 09-08*
 
 ### Week 3
 2017-09-12	T  Start Philip K. Dick, *Do Androids Dream of Electric Sheep?* Chs. 1-4 (to p. 47); 
 
-2017-09-14	H *Do Androids Dream of Electric Sheep?* Chs. 5-13 (to p. 153)
+2017-09-14	H *Do Androids Dream of Electric Sheep?* Chs. 5-13 (to p. 153); 
 
 ### Week 4
 2017-09-19	T Finish *Do Androids Dream of Electric Sheep?*  Start Arthur C. Clarke, *2001: A Space Odyssey*, Foreword (pp. xix-xx) and Chs. 1 - 5
 
-2017-09-21	H *2001: A Space Odyssey*, to the end of Ch. 17
+2017-09-21	H *2001: A Space Odyssey*, to the end of Ch. 17; **Short Exercise: Sound Composition due**
 
 ### Week 5
 2017-09-26	T *2001: A Space Odyssey*, to the end of Part IV (Ch. 30)
 
-2017-09-28	H Finish *2001: A Space Odyssey*
+2017-09-28	H Finish *2001: A Space Odyssey*; **Short (Reflective) Exercise due**
 
 ### Week 6
 2017-10-03	T Start Alan Moore, *Watchmen*,  to the end of Ch. 1 (including the prose segment “Under the Hood”) 
@@ -57,15 +56,16 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 ### Week 8
 2017-10-17	T **Midterm Exam**
 
-2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33)
+2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); **Longer Writing 1 due: Graphic Analysis**
 
 ### Week 9
-2017-10-24	T *The Handmaid's Tale* Chs. III - VIII (to p. 140)
+2017-10-24	T *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
+*note: MITH Digital Dialogue on 11/24* 
 
 2017-10-26	H *The Handmaid's Tale* Chs.  IX - XII (to p. 255)
 
 ### Week 10
-2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel)
+2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **Short (Reflective) Exercise due**
 
 2017-11-02	H start Octavia Butler, *Lilith’s Brood: Dawn* (through p. 112)
 
@@ -78,7 +78,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 2017-11-14	T *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
 *note: TEI Conference (11/11 - 11/15)
 
-2017-11-16	H Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746;
+2017-11-16	H Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; **Short Exercise due**
 
 ### Week 13
 2017-11-21	T Start Paolo Bacigalupi, *The Windup Girl*, Chs. 1-5;
@@ -91,7 +91,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 2017-11-30	H *The Windup Girl*, Chs. 13-26
 
 ### Week 15
-2017-12-05	T *The Windup Girl*, Chs. 27-35
+2017-12-05	T *The Windup Girl*, Chs. 27-35; **Longer Assignment (Creative / Analytical) due** 
 
 2017-12-07	H Last Day. Finish *The Windup Girl*.
 
