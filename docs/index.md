@@ -20,6 +20,13 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 ### Week 1
 2017-08-29	T Welcome to the course! Intro to science fiction and H. G. Wells
 
+**Context**: 
+
+* [Orson Welles' Radio Broadcast, 1938](http://sounds.mercurytheatre.info/mercury/381030.mp3)
+*During the 1930s actors Orson Welles and John Houseman presented a radio show, "The Mercury Theatre on the Air." This show is remembered most for its October 30, 1938 broadcast of "The War of the Worlds" by H.G. Wells. Although listeners were cautioned that this was only a story, panic ensued across the country as people thought it was a real news broadcast and that the earth was being invaded by Martians.*
+* [Google Map of Locations in *War of the Worlds*](https://www.google.com/maps/d/viewer?msa=0&mid=17JQcwSQJtlF6TuJlz82wYEavri8&ll=51.52497957029441%2C0.17337799999995696&z=9)
+* **Slides**: [Darwin, H. G. Wells, and the War of Nature](https://www.slideshare.net/ebbondar/darwin-h-g-wells-and-the-war-of-nature)
+
 2017-08-31	H Start H. G. Wells, *War of the Worlds*, Book I, Ch. I through Ch. VIII, pp. 41-68;
 
 ### Week 2
