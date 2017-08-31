@@ -32,7 +32,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 ### Week 2
 2017-09-05	T *War of the Worlds*, to the end of Book II Ch. III (to p. 154)
 
-2017-09-07	H Finish *War of the Worlds*; **Short(Reflective) Exercise due**
+2017-09-07	H Finish *War of the Worlds*; **[Threaded Writing Assignment 1](http://upg-sciencefiction-2017.wikispaces.com/Threaded+Writing+Assignment+1+%28WoW%29) due before class**
 *Note: Add/Drop ends on F 09-08*
 
 ### Week 3
