@@ -37,6 +37,9 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 
 ### Week 3
 2017-09-12	T  Start Philip K. Dick, *Do Androids Dream of Electric Sheep?* Chs. 1-4 (to p. 47); 
+**Context**:
+
+* **Slides**: [Background and Concepts in *Do Androids Dream of Electric Sheep?*](https://www.slideshare.net/ebbondar/doandroidsdream)
 
 2017-09-14	H *Do Androids Dream of Electric Sheep?* Chs. 5-13 (to p. 153); 
 
