@@ -10,6 +10,7 @@ To be successful with this assignment, you'll want to balance your voice with sp
 ### Tech you need: 
 GarageBand is a great option for iOS devices, and there are [a host of apps](http://android.appstorm.net/roundups/utilities-roundups/10-powerful-audio-recording-apps/) you can try for Android phones. I'd appreciate it if you can export your file as an .mp3 , a standard audio format. 
 
+### How to get started:
 * Listen to Orson Welles' radio production for a while to get some clues and ideas for sound effects to try. 
 * Select a short passage of Do Androids Dream of Electric Sheep or 2001: A Space Odyssey, perhaps part of a chapter--not too long--but that something tha represents a complete, self-contained event.
 * Work on adapting the descriptive language and dialogue (if any) in the text into something that involves voice cues and sound effects. You might start by copying the text into a file and editing it to add and alter material. 
