@@ -53,10 +53,13 @@ Introduce [Sound Composition Assignment[(audioAssign1.md)
 ### Week 5
 2017-09-26	T *2001: A Space Odyssey*, to the end of Part IV (Ch. 30)
 
-2017-09-28	H Finish *2001: A Space Odyssey*; **Short (Reflective) Exercise due**
+2017-09-28	H Finish *2001: A Space Odyssey*; 
+
+**Audio Assignment 1 due between 9-28 and 10-3**
 
 ### Week 6
 2017-10-03	T Start Alan Moore, *Watchmen*,  to the end of Ch. 1 (including the prose segment “Under the Hood”) 
+
 
 2017-10-05	H Alan Moore, *Watchmen*, to the end of Ch. 5; 
 
