@@ -48,6 +48,7 @@ Office Hours in FOB 204: Wed. 3 - 4:30 pm, Thurs. 2:30 - 4:30 PM, and by appoint
 [Clips from *Blade Runner* (1982)](https://www.youtube.com/playlist?list=PLZbXA4lyCtqpOurhK3_v7BJLXyCFmYzKH)
 
 2017-09-21	H *2001: A Space Odyssey*, to the end of Ch. 17; 
+Introduce [Sound Composition Assignment[(audioAssign1.md) 
 
 ### Week 5
 2017-09-26	T *2001: A Space Odyssey*, to the end of Part IV (Ch. 30)
