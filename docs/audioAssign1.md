@@ -1,9 +1,10 @@
-# Sound Composition Assignment
-## A creative and reflective exercise
+# [Science Fiction](https://ebeshero.github.io/scienceFiction/): Sound Composition Assignment
+## A creative exercise in speculative media composition
+
 
 ### due: between Thurs. 9/28 and Tues. 10/3 
 
-In the spirit of Orson Welles' accomplishment in his 1938 radio adaptation of H. G. Wells' novel *The War of the Worlds*, your task with this assignment is to select a segment from Do Androids Dream of Electric Sheep or 2001: A Space Odyssey to adapt into an audio experience, and *adapt* it to make it sound *plausible* or consistent with our reality. 
+In the spirit of Orson Welles' accomplishment in his 1938 radio adaptation of H. G. Wells' novel *The War of the Worlds*, your task with this assignment is to select a segment from *Do Androids Dream of Electric Sheep* or *2001: A Space Odyssey* to adapt into an audio experience, and *adapt* it to make it sound *plausible* or consistent with our reality. 
 
 To be successful with this assignment, you'll want to balance your voice with special sound effects that you could generate yourself or adapt from sources on the web. You want to first locate some sound technology that will work with devices you have readily available--your mobile phone or tablet, for example. 
 
@@ -12,7 +13,7 @@ GarageBand is a great option for iOS devices, and there are [a host of apps](htt
 
 ### How to get started:
 * Listen to Orson Welles' radio production for a while to get some clues and ideas for sound effects to try. 
-* Select a short passage of Do Androids Dream of Electric Sheep or 2001: A Space Odyssey, perhaps part of a chapter--not too long--but that something tha represents a complete, self-contained event.
+* Select a short passage of *Do Androids Dream of Electric Sheep* or *2001: A Space Odyssey*, perhaps part of a chapter--not too long--but that something tha represents a complete, self-contained event.
 * Work on adapting the descriptive language and dialogue (if any) in the text into something that involves voice cues and sound effects. You might start by copying the text into a file and editing it to add and alter material. 
 
 To be successful with this exercise, you **must** do more than simply read the text out loud. I will be looking for signs that you have altered it in at least **two or more** of the following ways:
@@ -27,14 +28,18 @@ To be successful with this exercise, you **must** do more than simply read the t
 
 Your creative adaptation needs to build on or reply to a passage from the text you chose, and represents your interpretation of it.
 
-## Create and submit two things:
+## Create and submit two files:
 
 1. Generate a 3-5 minute sound-clip of your creative adaptation, and save it as an mp3 file.
 1. I'll ask each of you to draft a short piece (a few paragraphs) documenting your decisions about what you selected and how you decided to alter it to help me understand what you've attempted to accomplish. This can be a text file or word-processed document, or a web page (if you know how to create one of these.) 
 
-I'll invite you to a Box directory where you can upload these two files by the time they're due. 
+**Filenames**: Use this format to name your files, to be sure they're associated together.
+* LastName_SFAudio.mp3 (for the sound file)
+* LastName_SFAudio.txt (or .rtf, .doc, .txt, .html, for the reflective document)
 
+**File Submission**: I'll invite you to a Box directory where you can upload these two files by the time they're due.
 
+[Return to Science Fiction syllabus](https://ebeshero.github.io/scienceFiction/)
 
 
 
