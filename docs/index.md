@@ -55,7 +55,7 @@ Introduce [Sound Composition Assignment](audioAssign1.md)
 ### Week 5
 2017-09-26	T *2001: A Space Odyssey*, to the end of Part IV (Ch. 30)
 
-2017-09-28	H Finish *2001: A Space Odyssey*; 
+2017-09-28	H Finish *2001: A Space Odyssey*; **Quiz**.
 
 **Audio Assignment 1 due between 9-28 and 10-3**
 
