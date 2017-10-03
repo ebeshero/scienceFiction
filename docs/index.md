@@ -62,6 +62,7 @@ Introduce [Sound Composition Assignment](audioAssign1.md)
 ### Week 6
 2017-10-03	T Start Alan Moore, *Watchmen*,  to the end of Ch. 1 (including the prose segment “Under the Hood”) 
 
+[Writing About Comics](WritingAboutComics.pdf)
 
 2017-10-05	H Alan Moore, *Watchmen*, to the end of Ch. 5; 
 
