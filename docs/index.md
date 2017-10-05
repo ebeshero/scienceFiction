@@ -65,6 +65,8 @@ Introduce [Sound Composition Assignment](audioAssign1.md)
 [Writing About Comics](WritingAboutComics.pdf)
 
 2017-10-05	H Alan Moore, *Watchmen*, to the end of Ch. 5; 
+**[Introduce Watchmen Graphic Analysis assignment](Fa2017WatchmenGraphicAnalysis.pdf)**
+Preliminary Launch: group Timeline Exercise
 
 ### Week 7
 2017-10-10	T NO CLASS TODAY (Monday classes meet due to Fall Break.)
@@ -74,7 +76,7 @@ Introduce [Sound Composition Assignment](audioAssign1.md)
 ### Week 8
 2017-10-17	T **Midterm Exam**
 
-2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); **Longer Writing 1 due: Graphic Analysis**
+2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); **[Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
 
 ### Week 9
 2017-10-24	T *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
