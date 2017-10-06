@@ -66,7 +66,7 @@ Introduce [Sound Composition Assignment](audioAssign1.md)
 
 2017-10-05	H Alan Moore, *Watchmen*, to the end of Ch. 5; 
 **[Introduce Watchmen Graphic Analysis assignment](Fa2017WatchmenGraphicAnalysis.pdf)**
-Preliminary Launch: group Timeline Exercise
+Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wikispaces.com/Timeline+Groups): Groups: set up your TimeMapper Timeline files by next week, and begin collecting events. 
 
 ### Week 7
 2017-10-10	T NO CLASS TODAY (Monday classes meet due to Fall Break.)
