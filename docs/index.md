@@ -86,10 +86,11 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 #### *The Ending of Watchmen*
 **Context Slides**: [Alien Invasions, Pulp Comics, and *Watchmen*](https://www.slideshare.net/secret/wfjlnA4jwE8HBr)
 
-
+### [Midterm Exam Review Prep](MidtermReview.md)
 
 ### Week 8
-2017-10-17	T **Midterm Exam**
+[MIDTERM TAKE-HOME EXAM TO BE POSTED BY SUNDAY EVENING 10-15]
+2017-10-17	T **Midterm Exam due by Courseweb**  [MIDTERM TAKE-HOME EXAM TO BE POSTED BY SUNDAY EVENING 10-15]
 
 2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); **[Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
 
