@@ -73,6 +73,21 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 
 2017-10-12	H Finish *Watchmen*
 
+#### *Kitty Genovese and Bystander Syndrome*
+**Context reading: ["37 Who Saw Murder Didn't Call the Police"](http://www.nytimes.com/1964/03/27/37-who-saw-murder-didnt-call-the-police.html?_r=0) *New York Times* article, 27 March 1964
+
+#### *Friedrich Nietzsche*
+**Context short video**: [Friedrich Nietzsche on the Superman](https://www.youtube.com/watch?v=bxiKqA-u8y4)
+
+**Context reading**: [translated passages from Nietzsche's *Also Sprach Zarathustra*](http://praxeology.net/zara.htm) 
+
+**Sidelight**: [Stanley Kubrick's last-minute decision for the musical score of 2001](http://www.classicfm.com/composers/strauss/music/also-sprach-zarathustra-2001-space-odyssey/)
+
+#### *The Ending of Watchmen*
+**Context Slides**: [Alien Invasions, Pulp Comics, and *Watchmen*](https://www.slideshare.net/secret/wfjlnA4jwE8HBr)
+
+
+
 ### Week 8
 2017-10-17	T **Midterm Exam**
 
