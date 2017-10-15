@@ -92,7 +92,9 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 [MIDTERM TAKE-HOME EXAM TO BE POSTED BY SUNDAY EVENING 10-15]
 2017-10-17	T **Midterm Exam due by Courseweb**  [MIDTERM TAKE-HOME EXAM TO BE POSTED BY SUNDAY EVENING 10-15]
 
-2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); **[Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
+2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); 
+
+**2017-10-21, Sat. by 11:59 PM: [Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
 
 ### Week 9
 2017-10-24	T *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
