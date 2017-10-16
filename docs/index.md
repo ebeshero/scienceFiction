@@ -88,9 +88,9 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 
 ### [Midterm Exam Review Prep](MidtermReview.md)
 
-### Week 8
-[MIDTERM TAKE-HOME EXAM TO BE POSTED BY SUNDAY EVENING 10-15]
-2017-10-17	T **Midterm Exam due by Courseweb**  [MIDTERM TAKE-HOME EXAM TO BE POSTED BY SUNDAY EVENING 10-15]
+### Week 8 
+### [Midterm Take-Home Exam](MidtermExam.html)
+2017-10-17	T **Midterm Exam due by Courseweb**  
 
 2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); 
 
