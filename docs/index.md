@@ -141,6 +141,6 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 
 2017-12-07	H Last Day. Finish *The Windup Girl*.
 
-**TimeMaps due before class**: at least 25 entries. 
+**TimeMappers: Completed TimeMaps due before class**: at least 25 entries. 
 
 ### Final Exam (TBA)
