@@ -103,11 +103,13 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 *note: MITH Digital Dialogue on 11/24* 
 
 2017-10-26	H *The Handmaid's Tale* Chs.  IX - XII (to p. 255)
+**TimeMappers** Each group member has contributed one entry. These are posted and viewable before class so that we may admire your work. 
 
 ### Week 10
 2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **Short (Reflective) Exercise due**
 
 2017-11-02	H start Octavia Butler, *Lilith’s Brood: Dawn* (through p. 112)
+**TimeMappers** Each group member contributes one more entry. Groups take stock. You need to represent events from at least three books we are reading this semester. Make a plan of how to do this. 
 
 ### Week 11
 2017-11-07	T  *Adulthood Rites (Lilith’s Brood)* Part II (Phoenix) through Ch. 9 (pp. 313-355)
@@ -116,7 +118,8 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 
 ### Week 12
 2017-11-14	T *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
-*note: TEI Conference (11/11 - 11/15)
+*note: TEI Conference (11/11 - 11/15): 
+**TimeMappers** Installment due here. HALFWAY POINT here with at least 12 entries.
 
 2017-11-16	H Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; **Short Exercise due**
 
@@ -134,5 +137,6 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 2017-12-05	T *The Windup Girl*, Chs. 27-35; **Longer Assignment (Creative / Analytical) due** 
 
 2017-12-07	H Last Day. Finish *The Windup Girl*.
+**TimeMappers due** at least 25 entries. 
 
 ### Final Exam (TBA)
