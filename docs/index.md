@@ -99,10 +99,10 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 **2017-10-21, Sat. by 11:59 PM: [Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
 
 ### Week 9
-2017-10-24	T *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
+2017-10-24	T **Reading Day** No class meeting. (I am out of town delivering a presentation.) Continue reading *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
 *note: MITH Digital Dialogue on 11/24* 
 
-2017-10-26	H *The Handmaid's Tale* Chs.  IX - XII (to p. 255)
+2017-10-26	H *The Handmaid's Tale* Chs.  IX - XI (to p. 195)
 
 **TimeMappers**: Each group member has contributed one entry. These are posted and viewable before class so that we may admire your work. 
 
