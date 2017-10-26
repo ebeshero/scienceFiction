@@ -103,11 +103,11 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 *note: MITH Digital Dialogue on 11/24* 
 
 2017-10-26	H *The Handmaid's Tale* Chs.  IX - XI (to p. 195)
-
+[Group Exercise](http://upg-sciencefiction-2017.wikispaces.com/Handmaid%27s_Tale_Group_Exercise) and launch Handmaid's Tale Threaded Discussion Exercise 
 **TimeMappers**: Each group member has contributed one entry. These are posted and viewable before class so that we may admire your work. 
 
 ### Week 10
-2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **Short (Reflective) Exercise due**
+2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **Threaded Handmaid's Tale Discussion Exercise** (to be posted)
 
 2017-11-02	H start Octavia Butler, *Lilith’s Brood: Dawn* (through p. 112)
 
