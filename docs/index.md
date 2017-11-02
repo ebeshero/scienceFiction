@@ -110,7 +110,7 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **[Threaded Handmaid's Tale Discussion Exercise](http://upg-sciencefiction-2017.wikispaces.com/Threaded+Writing+Assignment+2+%28HT%29)** 
 
 2017-11-02	H start Octavia Butler, *Lilith’s Brood: Dawn* (through p. 112)
-**Context Slides:** [Octavia Butler, Science Fiction, and *Lilith's Brood*](https://www.slideshare.net/secret/LS1uxMdPqoYFau)
+**Context Slides:** [Octavia Butler, Science Fiction, and *Lilith's Brood*](https://www.slideshare.net/ebbondar/octavia-butler-sf-liliths-brood)
 
 **TimeMappers**: Each group member contributes one more entry. Groups take stock. You need to represent events from at least three books we are reading this semester. Make a plan of how to do this. 
 
