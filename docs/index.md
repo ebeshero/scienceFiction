@@ -66,28 +66,53 @@ Introduce [Sound Composition Assignment](audioAssign1.md)
 
 2017-10-05	H Alan Moore, *Watchmen*, to the end of Ch. 5; 
 **[Introduce Watchmen Graphic Analysis assignment](Fa2017WatchmenGraphicAnalysis.pdf)**
-Preliminary Launch: group Timeline Exercise
+Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wikispaces.com/Timeline+Group+Assignment): Groups: set up your TimeMapper Timeline files by next week, and begin collecting events. 
 
 ### Week 7
 2017-10-10	T NO CLASS TODAY (Monday classes meet due to Fall Break.)
 
 2017-10-12	H Finish *Watchmen*
 
-### Week 8
-2017-10-17	T **Midterm Exam**
+#### *Kitty Genovese and Bystander Syndrome*
+**Context reading: ["37 Who Saw Murder Didn't Call the Police"](http://www.nytimes.com/1964/03/27/37-who-saw-murder-didnt-call-the-police.html?_r=0) *New York Times* article, 27 March 1964
 
-2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33); **[Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
+#### *Friedrich Nietzsche*
+**Context short video**: [Friedrich Nietzsche on the Superman](https://www.youtube.com/watch?v=bxiKqA-u8y4)
+
+**Context reading**: [translated passages from Nietzsche's *Also Sprach Zarathustra*](http://praxeology.net/zara.htm) 
+
+**Sidelight**: [Stanley Kubrick's last-minute decision for the musical score of 2001](http://www.classicfm.com/composers/strauss/music/also-sprach-zarathustra-2001-space-odyssey/)
+
+#### *The Ending of Watchmen*
+**Context Slides**: [Alien Invasions, Pulp Comics, and *Watchmen*](https://www.slideshare.net/secret/wfjlnA4jwE8HBr)
+
+### [Midterm Exam Review Prep](MidtermReview.md)
+
+### Week 8 
+### [Midterm Take-Home Exam](MidtermExam.html)
+2017-10-17	T **Midterm Exam due by Courseweb**  
+
+2017-10-19	H Start Margaret Atwood, *The Handmaid's Tale* Chs. I - II (to p. 33);
+
+**Context Slides**: [The Handmaid's Tale](https://www.slideshare.net/ebbondar/handmaidstale-80987622)
+
+**2017-10-21, Sat. by 11:59 PM: [Watchmen Graphic Analysis assignment due](Fa2017WatchmenGraphicAnalysis.pdf)**
 
 ### Week 9
-2017-10-24	T *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
+2017-10-24	T **Reading Day** No class meeting. (I am out of town delivering a presentation.) Continue reading *The Handmaid's Tale* Chs. III - VIII (to p. 140) 
 *note: MITH Digital Dialogue on 11/24* 
 
-2017-10-26	H *The Handmaid's Tale* Chs.  IX - XII (to p. 255)
+2017-10-26	H *The Handmaid's Tale* Chs.  IX - XI (to p. 195)
+[Group Exercise](http://upg-sciencefiction-2017.wikispaces.com/Handmaid%27s_Tale_Group_Exercise) and launch Handmaid's Tale [Threaded Discussion Exercise](http://upg-sciencefiction-2017.wikispaces.com/Threaded+Writing+Assignment+2+%28HT%29) 
+**TimeMappers**: Each group member has contributed one entry. These are posted and viewable before class so that we may admire your work. 
 
 ### Week 10
-2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **Short (Reflective) Exercise due**
+2017-10-31	T Finish *The Handmaid's Tale* (including the Historical Notes, which actually conclude the novel); **[Threaded Handmaid's Tale Discussion Exercise](http://upg-sciencefiction-2017.wikispaces.com/Threaded+Writing+Assignment+2+%28HT%29)** 
 
 2017-11-02	H start Octavia Butler, *Lilith’s Brood: Dawn* (through p. 112)
+**Context Slides:** [Octavia Butler, Science Fiction, and *Lilith's Brood*](https://www.slideshare.net/ebbondar/octavia-butler-sf-liliths-brood)
+
+**TimeMappers**: Each group member contributes one more entry. Groups take stock. You need to represent events from at least three books we are reading this semester. Make a plan of how to do this. 
 
 ### Week 11
 2017-11-07	T  *Adulthood Rites (Lilith’s Brood)* Part II (Phoenix) through Ch. 9 (pp. 313-355)
@@ -95,8 +120,11 @@ Preliminary Launch: group Timeline Exercise
 2017-11-09	H *Adulthood Rites (Lilith’s Brood)* finish Part II (to p. 417)
 
 ### Week 12
+<<<<<<< HEAD
 2017-11-14	T **Reading Day (no class meeting)** *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
 *note: TEI Conference (11/11 - 11/15)
+
+**TimeMappers**: Major installment due here. HALFWAY POINT with at least 12 entries.
 
 2017-11-16	H **Re-convene in class** Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; **Short Exercise due**
 
@@ -114,5 +142,7 @@ Preliminary Launch: group Timeline Exercise
 2017-12-05	T *The Windup Girl*, Chs. 27-35; **Longer Assignment (Creative / Analytical) due** 
 
 2017-12-07	H Last Day. Finish *The Windup Girl*.
+
+**TimeMappers: Completed TimeMaps due before class**: at least 25 entries. 
 
 ### Final Exam (TBA)
