@@ -95,10 +95,10 @@ Preliminary Launch: group Timeline Exercise
 2017-11-09	H *Adulthood Rites (Lilith’s Brood)* finish Part II (to p. 417)
 
 ### Week 12
-2017-11-14	T *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
+2017-11-14	T **Reading Day (no class meeting)** *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
 *note: TEI Conference (11/11 - 11/15)
 
-2017-11-16	H Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; **Short Exercise due**
+2017-11-16	H **Re-convene in class** Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; **Short Exercise due**
 
 ### Week 13
 2017-11-21	T Start Paolo Bacigalupi, *The Windup Girl*, Chs. 1-5;
