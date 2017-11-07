@@ -116,11 +116,11 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 
 ### Week 11
 2017-11-07	T  *Adulthood Rites (Lilith’s Brood)* Part II (Phoenix) through Ch. 9 (pp. 313-355)
+Introduce [Analytical or Creative Research Project](researchProject.md)
 
 2017-11-09	H *Adulthood Rites (Lilith’s Brood)* finish Part II (to p. 417)
 
 ### Week 12
-<<<<<<< HEAD
 2017-11-14	T **Reading Day (no class meeting)** *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
 *note: TEI Conference (11/11 - 11/15)
 
