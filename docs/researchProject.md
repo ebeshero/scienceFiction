@@ -67,19 +67,18 @@ For our assignment, here’s how to locate good library resources.
 1.	The long list of databases on the next screen is organized in alphabetical order. Scroll down to find the specific databases below. Search within each database to find good materials. Try the following. Check in with me if you’re having trouble!  
 
 
-* Use Find Books & More links to PittCAT+ and PittCAT Classic to search for books in the Pitt campus libraries. PittCAT+ will give you a complicated mix of resources, so after you run an initial search, use the menus to limit content type to “Book / eBook” or “Journal Article.”
+* Use **Find Books & More** links to PittCAT+ and PittCAT Classic to search for books in the Pitt campus libraries. **PittCAT+** will give you a complicated mix of resources, so after you run an initial search, use the menus to limit content type to “Book / eBook” or “Journal Article.”
     * If looking for articles here, select “Limit to articles from peer-reviewed publications.”
-    * --PittCAT Classic often locates particular titles or kinds of material more quickly. 
+    * **PittCAT Classic often locates particular titles or kinds of material more quickly. 
 
-* Use the PittCAT link to search for books in the Pitt campus libraries. 
-* Literature Resource Center: Very useful source for articles on science fiction theory, cyberpunk, and on particular authors. Use the results in the “Literary Criticism” tab.
-* Project Muse (Muse)—Electronic Journals: up-to-date scholarly articles available online 
-* JSTOR: good scholarly articles available online.
-* MLA International Bibliography: indexes high quality articles and books published on literary subjects—Not everything here will be instantly accessible online: Some materials will be in book or print form, which you can access or order by Interlibrary Loan through Millstein Library. 
-* Literature Online (LION) Database: a good source of journal articles, but only the ones marked with a full-text or a page-image icon are available online. Others can be requested by Interlibrary Loan.       
-* Academic Onefile: broad interdisciplinary coverage of articles and news. May be useful in researching particular issues, events, technologies in a particular science fiction text.
-* Academic Lexis-Nexis: good resource for finding news articles relevant to history/context of a science fiction text. Use the search limits to narrow down your results to a range of dates. 
-* Outside Pitt Library System: Try Google Books or Google Scholar if you are trying to track down books and articles that don’t appear to be available in the Pitt system.
+* **Literature Resource Center**: Very useful source for articles on science fiction theory, cyberpunk, and on particular authors. Use the results in the “Literary Criticism” tab.
+* **Project Muse (Muse)**: Electronic Journals: up-to-date scholarly articles available online 
+* **JSTOR:** good scholarly articles available online.
+* **MLA International Bibliography**: indexes high quality articles and books published on literary subjects—Not everything here will be instantly accessible online: Some materials will be in book or print form, which you can access or order by Interlibrary Loan through Millstein Library. 
+* **Literature Online (LION) Database**: a good source of journal articles, but only the ones marked with a full-text or a page-image icon are available online. Others can be requested by Interlibrary Loan.       
+* **Academic Onefile**: broad interdisciplinary coverage of articles and news. May be useful in researching particular issues, events, technologies in a particular science fiction text.
+* **Academic Lexis-Nexis**: good resource for finding news articles relevant to history/context of a science fiction text. Use the search limits to narrow down your results to a range of dates. 
+* **Outside Pitt Library System**: Try **Google Books** or **Google Scholar** if you are trying to track down books and articles that don’t appear to be available in the Pitt system.
 
 Talk to our librarians at Millstein Library (especially Renee Kiner), and check out the [Libguide (Library Research Guide)](http://pitt.libguides.com/content.php?pid=122655&sid=1054101) they developed for our class, to help with the research process and evaluating the quality of your search results. 
 
