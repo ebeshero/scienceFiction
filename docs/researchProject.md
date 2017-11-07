@@ -25,9 +25,10 @@ Based on what you learn from your research, consider how the inventive, strange 
 I expect you to cite and work with 4 – 6 good quality sources. (When in doubt about the quality of a source, check in with me and ask about it.) Look for scholarly articles and books on your text in the Pitt Digital Library, and seek out relevant news resources to find out more about issues and events when a text was written. You may also use scholarly articles and links that I post as background and further reading on a particular writer. **See Guidelines for Research below**.
 
 #### Format Options:
-* This may be a traditional, word-processed paper. If so, it should be 5-7 double-spaced pages, using an 11-12 point font (Times New Roman, Arial, or the equivalent). Follow MLA citation format, using parenthetical page citations (Author page) to indicate your references to passages in our science fiction readings and to the outside secondary articles or books you are citing. Refer to the [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/resource/747/01/) for instructions and examples of citing in MLA style and making an MLA style Works Cited page.
+* This may be a traditional, word-processed paper. If so, it should be 2500 - 3500 words not counting the Works Cited Page. That's about 5-7 double-spaced pages, using an 11-12 point font (Times New Roman, Arial, or the equivalent). Follow MLA citation format, using parenthetical page citations (Author page) to indicate your references to passages in our science fiction readings and to the outside secondary articles or books you are citing. Refer to the [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/resource/747/01/) for instructions and examples of citing in MLA style and making an MLA style Works Cited page.
 
-* Alternatively, you may develop this as a website or long blog post entry. **SUPPLY A WORD COUNT HERE.**
+* Alternatively, for those of you pursuing the Digital Studies certificate who would like to add this to your digital portfolio, or those with interests in digital media: you may develop this as a webpage or small website, with long blog post entry of about 2500-3500 words. (Idea4lly you have access to webspace and/or a blog site of your own for pursuing this option. I'm happy to help set this up, as needed.)
+* In either format, you may include hyperlinks and images, but images do not count toward the length requirement. 
 
 ### Option 2: Research and Creative Adaptation
 
@@ -39,17 +40,53 @@ Read and research theories of science fiction writing (such as Darko Suvin’s) 
 
 Keep this creative sketch fairly concise, 5-8 double-spaced pages. Focus on developing a simple plot and characters by way of introducing them and their world to us. 
 
-Options for building on the works of others:
-•	Work within the domain of an existing fictional world in one of our assigned readings this semester. Invent a new character, or expand or build up a character who is fairly undeveloped within the writer’s work.  
-•	Write a new episode for a science fiction text that involves immersing an already developed character in a new domain or setting, or with a new kind of technology consistent with the world of the science fiction text you are modeling. In this option you’re building an internal space within a larger construction: This space must be shown to fit in some way within the original structure of the science fiction world, but it must be a distinct domain within it, with its own rules and rituals, the revealing of which is your goal in your work of creative description or narrative.
-You may write a narrative (a plot or storyline), or a dialogue between characters, or focus on developing a passage of description. In choosing your approach and developing it, work within the style of your science fiction writer. (Consider: How does dialogue appear in the text, what kinds of voices and turns of phrase sound true to the characters? What kinds of details help to develop a sense of a strange new place?) 
+#### Options for building on the works of others:
+* Work within the domain of an existing fictional world in one of our assigned readings this semester. **Invent a new character, or expand or build up a character who is fairly undeveloped** within the writer’s work.  
+* Write a new episode for a science fiction text that involves **immersing an already developed character in a new domain or setting, or with a new kind of technology** consistent with the world of the science fiction text you are modeling. In this option you’re building an internal space within a larger construction. **This space must be shown to fit in some way within the original structure of the science fiction world, but it must be a distinct domain within it**, with its own rules and rituals, the revealing of which is your goal in your work of creative description or narrative.
 
-Finally, when you’ve finished your work, write a framing, introductory essay of about 2-3 pages in which you comment on how you have built upon and are responding to ideas from your reading of articles and essays about fantasy, and comment on the experience of writing within a “secondary” or alternate world in science fiction that is distinct from our reality. Quote from your own work as you reflect on the implications of what you have accomplished, in order to show me how you are responding to the theories and practices of writing fantasy that you have learned in this course. 
+You may write a narrative (a plot or storyline), or a dialogue between characters, or concentrate on developing a passage of description. (Your submission may contain some elements of each: scripted events, dialogue, and descriptive exposition). In choosing your approach and developing your project, try to mimic the style of your science fiction writer. (Consider: How does dialogue appear in the text, what kinds of voices and turns of phrase sound true to the characters? What kinds of details does your chosen writer use to help to develop a sense of a strange new place?) 
+
+Finally, when you’ve finished your work, **write a framing, introductory essay of about 2-3 pages** in which you comment on **how you are responding to ideas from your reading of secondary sources**, and in which comment on the experience of writing within a “secondary” or alternate world in science fiction that is distinct from our reality. **Quote from your own work as you reflect on the implications of what you have accomplished**, in order to show me how you are responding to the theories and practices of writing science fiction that you have learned in this course. 
 
 #### Format Options:
-* DEVELOP THIS: CREATIVE MULTIMEDIA with TEXT / BLOG PREFACE
-* Traditional word-processed format
-Follow MLA citation format in your framing essay, using parenthetical page citations (Author page) to indicate your references to passages in our science fiction readings and to the outside secondary articles or books you are citing. Refer to the [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/resource/747/01/) for instructions and examples of citing in MLA style and making an MLA style Works Cited page.
+If you pursue the Creative option, you will create two submissions:
+1. the creative adaptation
+1. the framing essay
+
+You may produce these as traditional word-processed papers. The creative adaptations should be between 2500-3500 words, with a title. I expect the framing essay to demonstrate and reflect on the research you did, and to include a Works Cited page. Incorporate source citations in the same way as you would for the Research option. Follow MLA citation format in your framing essay, using parenthetical page citations (Author page) to indicate your references to passages in our science fiction readings and to the outside secondary articles or books you are citing. Refer to the [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/resource/747/01/) for instructions and examples of citing in MLA style and making an MLA style Works Cited page.
+
+### Doing the Research (Both Options)
+Locate at least half of your sources using the [Pitt Digital Library](http://www.library.pitt.edu/), where you can find very useful articles and historical context. Part of the challenge of this assignment is locating in-depth information and authoritative, peer-reviewed material on SF. Note well: Some sites on the public web will be useful to you, but I also want you to **locate at least two or three sources from the resources listed below**. When in doubt about whether it's OK to use a particular source, ask me.
+•	Access to the Pitt Digital Library: [http://www.library.pitt.edu/](http://www.library.pitt.edu/)
+
+o	Off Campus Access to the Pitt Digital Library:  Use the same link. As you access the specific databases below, you’ll be prompted to log in with your Pitt user-id and password. 
+
+For our assignment, here’s how to locate good library resources.
+1.	Click on the button to “Find Articles” (left hand side of the screen in the Pitt Digital Library). 
+1.	In “Find Articles,” find the link to locate Databases “BY TITLE.” 
+1.	The long list of databases on the next screen is organized in alphabetical order. Scroll down to find the specific databases below. Search within each database to find good materials. Try the following. Check in with me if you’re having trouble!  
+
+
+* Use Find Books & More links to PittCAT+ and PittCAT Classic to search for books in the Pitt campus libraries. PittCAT+ will give you a complicated mix of resources, so after you run an initial search, use the menus to limit content type to “Book / eBook” or “Journal Article.”
+    * If looking for articles here, select “Limit to articles from peer-reviewed publications.”
+    * --PittCAT Classic often locates particular titles or kinds of material more quickly. 
+
+* Use the PittCAT link to search for books in the Pitt campus libraries. 
+* Literature Resource Center: Very useful source for articles on science fiction theory, cyberpunk, and on particular authors. Use the results in the “Literary Criticism” tab.
+* Project Muse (Muse)—Electronic Journals: up-to-date scholarly articles available online 
+* JSTOR: good scholarly articles available online.
+* MLA International Bibliography: indexes high quality articles and books published on literary subjects—Not everything here will be instantly accessible online: Some materials will be in book or print form, which you can access or order by Interlibrary Loan through Millstein Library. 
+* Literature Online (LION) Database: a good source of journal articles, but only the ones marked with a full-text or a page-image icon are available online. Others can be requested by Interlibrary Loan.       
+* Academic Onefile: broad interdisciplinary coverage of articles and news. May be useful in researching particular issues, events, technologies in a particular science fiction text.
+* Academic Lexis-Nexis: good resource for finding news articles relevant to history/context of a science fiction text. Use the search limits to narrow down your results to a range of dates. 
+* Outside Pitt Library System: Try Google Books or Google Scholar if you are trying to track down books and articles that don’t appear to be available in the Pitt system.
+
+Talk to our librarians at Millstein Library (especially Renee Kiner), and check out the [Libguide (Library Research Guide)](http://pitt.libguides.com/content.php?pid=122655&sid=1054101) they developed for our class, to help with the research process and evaluating the quality of your search results. 
+
+Find me when I’m in my office or online, and I’ll help you, too!  My office: FOB 204, office phone: 724-836-7195, e-mail: ebb8 at pitt.edu .
+
+Finally, I wish you patience, good fortune, and the reward of sudden discovery as you work on this assignment. Good research is almost always tedious and frustrating at first, but ultimately very rewarding when you find your way! **Bon courage!**
+
 
 
 
