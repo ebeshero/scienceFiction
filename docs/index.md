@@ -119,6 +119,7 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 Introduce [Analytical or Creative Research Project](researchProject.md)
 
 2017-11-09	H *Adulthood Rites (Lilith’s Brood)* finish Part II (to p. 417)
+** Class potluck? **
 
 ### Week 12
 2017-11-14	T **Reading Day (no class meeting)** *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
