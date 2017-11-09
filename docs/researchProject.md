@@ -84,6 +84,7 @@ Talk to our librarians at Millstein Library (especially Renee Kiner), and check 
 
 Find me when I’m in my office or online, and I’ll help you, too!  My office: FOB 204, office phone: 724-836-7195, e-mail: ebb8 at pitt.edu .
 
+[Go back to our syllabus](index.md)
 Finally, I wish you patience, good fortune, and the reward of sudden discovery as you work on this assignment. Good research is almost always tedious and frustrating at first, but ultimately very rewarding when you find your way! **Bon courage!**
 
 
