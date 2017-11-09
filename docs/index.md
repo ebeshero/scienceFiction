@@ -119,7 +119,7 @@ Preliminary Launch: [group Timeline Exercise](http://upg-sciencefiction-2017.wik
 Introduce [Analytical or Creative Research Project](researchProject.md)
 
 2017-11-09	H *Adulthood Rites (Lilith’s Brood)* finish Part II (to p. 417)
-**Class potluck?**
+[**Launch Threaded Discussion of *Lilith's Brood* **](https://upg-sciencefiction-2017.wikispaces.com/Threaded+Writing+Assignment+3+%28Lilith%27s+Brood%29)
 
 ### Week 12
 2017-11-14	T **Reading Day (no class meeting)** *Adulthood Rites (Lilith’s Brood)* Part III (to p. 477)
@@ -127,7 +127,7 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 
 **TimeMappers**: Major installment due here. HALFWAY POINT with at least 12 entries.
 
-2017-11-16	H **Re-convene in class** Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; **Short Exercise due**
+2017-11-16	H **Re-convene in class** Finish *Adulthood Rites (Lilith’s Brood)* + last two chapters of *Imago (Lilith’s Brood)*, pp. 741-746; [**Threaded Discussion of *Lilith's Brood* **](https://upg-sciencefiction-2017.wikispaces.com/Threaded+Writing+Assignment+3+%28Lilith%27s+Brood%29) due
 
 ### Week 13
 2017-11-21	T Start Paolo Bacigalupi, *The Windup Girl*, Chs. 1-5;
