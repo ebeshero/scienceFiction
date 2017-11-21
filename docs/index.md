@@ -131,6 +131,7 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 
 ### Week 13
 2017-11-21	T Start Paolo Bacigalupi, *The Windup Girl*, Chs. 1-5;
+**Context Slides**: [*The Windup Girl*](http://slides.com/elisabeshero-bondar/the-windup-girl#/)
 
 2017-11-23	H **Thanksgiving Recess (no classes today)** 
 
