@@ -137,6 +137,7 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 
 ### Week 14
 2017-11-28	T *The Windup Girl*, Chs. 6-12
+**Exercise**: [Language in *The Windup Girl*](http://upg-sciencefiction-2017.wikispaces.com/Language+in+The+Windup+Girl)
 
 2017-11-30	H *The Windup Girl*, Chs. 13-26
 
