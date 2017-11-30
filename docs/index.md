@@ -140,6 +140,7 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 **Exercise**: [Language in *The Windup Girl*](http://upg-sciencefiction-2017.wikispaces.com/Language+in+The+Windup+Girl)
 
 2017-11-30	H *The Windup Girl*, Chs. 13-26
+**Context:** [Basic Buddhism](https://www.buddhanet.net/e-learning/5minbud.htm)
 
 ### Week 15
 2017-12-05	T *The Windup Girl*, Chs. 27-35; **Longer Assignment (Creative / Analytical) due** 
