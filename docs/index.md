@@ -149,4 +149,4 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 
 **TimeMappers: Completed TimeMaps due before class**: at least 25 entries. 
 
-### Final Exam (TBA)
+### Take-Home Final Exam [to be posted]; due Thursday 12/14 by 11:59pm (Courseweb upload)
