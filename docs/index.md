@@ -140,13 +140,15 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 **Exercise**: [Language in *The Windup Girl*](http://upg-sciencefiction-2017.wikispaces.com/Language+in+The+Windup+Girl)
 
 2017-11-30	H *The Windup Girl*, Chs. 13-26
-**Context:** [Basic Buddhism](https://www.buddhanet.net/e-learning/5minbud.htm)
+**Context:** [Buddhism for Beginners](http://www.buddhismforbeginners.com/)
 
 ### Week 15
-2017-12-05	T *The Windup Girl*, Chs. 27-35; **Longer Assignment (Creative / Analytical) due** 
+2017-12-05	T *The Windup Girl*, Chs. 27-35 
 
-2017-12-07	H Last Day. Finish *The Windup Girl*.
+2017-12-07	H Last Day. Finish *The Windup Girl*. **TimeMappers: Completed TimeMaps due before class**: at least 25 entries. 
 
-**TimeMappers: Completed TimeMaps due before class**: at least 25 entries. 
+### Finals Week:
+2017-12-11 Take-Home Final Exam Posted.  **Longer Assignment (Creative / Analytical) due by 11:59pm.**
 
-### Take-Home Final Exam [to be posted]; due Thursday 12/14 by 11:59pm (Courseweb upload)
+2017-12-14 Take-Home Final Exam due by 11:59pm (via upload to [Courseweb](https://courseweb.pitt.edu)). 
+### Take-Home Final Exam [to be posted by Mon. 12/11]: due Thursday 12/14 by 11:59pm (Courseweb upload)
