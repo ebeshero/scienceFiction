@@ -151,4 +151,4 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 2017-12-11 Take-Home Final Exam Posted.  **Longer Assignment (Creative / Analytical) due by 11:59pm.**
 
 2017-12-14 Take-Home Final Exam due by 11:59pm (via upload to [Courseweb](https://courseweb.pitt.edu)). 
-### Take-Home Final Exam [to be posted by Mon. 12/11]: due Thursday 12/14 by 11:59pm (Courseweb upload)
+
