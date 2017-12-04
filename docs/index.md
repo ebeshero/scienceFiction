@@ -148,7 +148,7 @@ Introduce [Analytical or Creative Research Project](researchProject.md)
 2017-12-07	H Last Day. Finish *The Windup Girl*. **TimeMappers: Completed TimeMaps due before class**: at least 25 entries. 
 
 ### Finals Week:
-2017-12-11 Take-Home Final Exam Posted.  **Longer Assignment (Creative / Analytical) due by 11:59pm.**
+2017-12-11 Take-Home Final Exam Posted.  **[Longer Assignment (Creative / Analytical)](researchProject.html) due by 11:59pm.**
 
 2017-12-14 Take-Home Final Exam due by 11:59pm (via upload to [Courseweb](https://courseweb.pitt.edu)). 
 
