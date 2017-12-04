@@ -1,6 +1,6 @@
 # Science Fiction Research Project
 ## Analytical or Creative
-### due: Tues. 12-5 by 11:59pm
+### due: Mon. 12-11 by 11:59pm
 
 You may choose to take one of two options for this assignment. Either write an analytical paper or make a creative adaptation. Both options require research, as described below.
 
