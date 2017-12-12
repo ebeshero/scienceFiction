@@ -16,3 +16,7 @@
 
 
 3. Regime change, extinction, and the "end of the world" are dominant motifs in science fiction. Consider two texts we have read this semester (at least one since the midterm exam), that represent the collapse of one way of life and replacement by another system. First point out the sources of instability or how the old system was was failing: what cracks and signs of failure do we see in the texts? Then consider what changes in the world after failure: What traces of the past world might survive into the next? What new forms are made out of the old? 
+
+*Thanks for a wonderful class full of terrific speculative conversations! Have a happy holiday break!* 
+
+[Science Fiction class homepage](index.md)
