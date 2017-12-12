@@ -1,7 +1,7 @@
 # Fall 2017 Take-Home Final Exam
 
 ## Instructions
-*Respond to each of the three essay topics below. NOTE: You **may not discuss any text more than twice**, and your responses **must represent at least two texts that we read since the Midterm Exam**.   
+*Respond to **each of the three essay topics below**. NOTE: You **may not discuss any text more than twice**, and your responses **must represent at least two texts that we read since the Midterm Exam**.   
 *You may not collaborate with others on writing this exam, and essays will be screened for originality.*
 *Write your essay exam in a computer file as a word-processed document or text file, and save this **with your last name in the file name**, as in BesheroFinalExam.doc. Upload your file before the deadline at **11:59 PM on Thursday December 14**.* 
 *To work efficiently, read the questions carefully and quickly outline your response to help guide your writing. Support your points by referring to specific characters, examples, and episodes from the readings and include quoted passages from the readings.* 
