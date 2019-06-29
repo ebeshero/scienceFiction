@@ -3,6 +3,8 @@
 
 *Fall 2019 Class meets face-to-face T H 4 -5:15 pm in 136 McKenna Hall*
 
+{% include courseDesc.html %}
+
 ## [Schedule of Readings and Assignments](index.md)
 ### Course enrollment and electives info:
 * Englit 0626: course registration number: 30335
@@ -11,16 +13,15 @@
 * Satisfies either an **R** (research) or **P** elective requirement in Pitt-Greensburg's [Digital Studies Certificate](http://greensburg.pitt.edu/academics/info/digital-studies)
 
 Taught by: Elisa Beshero-Bondar (“Dr. B”), Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
-11- 11:50 (19c) 3- 3:50 (coding)
 
 * E-mail: ebb8 at pitt.edu
-
 
 Office Hours in FOB 204: 
 
 * Wed. 4 - 5:30 pm
 * Thurs. 1:30 - 3 PM
 * and by appointment
+
 
 ### Objectives
 * **Learn Contexts:** Learn about science fiction in context with important historical, scientific and cultural issues
