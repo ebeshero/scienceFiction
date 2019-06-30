@@ -32,16 +32,16 @@ Office Hours in FOB 204:
 
 ### Texts (in reading order)
 1. H. G. Wells, *The War of the Worlds*, Ed. Martin A. Danahay (Broadview, 2003) 
-ISBN: 978-1551113531 
+ISBN: 9781551113531
 1. Philip K. Dick, *Do Androids Dream of Electric Sheep?*  New York: Random House (DelRey), 1996.  ISBN: 978-0345404473
 1. Alan Moore, *Watchmen*. New York: DC Comics, 2014. (Paperback ed.) 
-ISBN: 978-1401245252
-1. Margaret Atwood, *The Handmaid’s Tale*. Anchor, 1998. ISBN: 978-0385490818 
-1. Neal Stephenson, *Snow Crash*. 
+ISBN: 9781401245252
+1. Margaret Atwood, *The Handmaid’s Tale*. Anchor, 1998. ISBN: 9780385490818 
+1. Neal Stephenson, *Snow Crash*. Del Rey 2000. ISBN: 9780553380958
 1. Octavia E. Butler, *Lilith’s Brood*. New York: Grand Central Publishing, 2000. 
-ISBN: 978-0446676106
+ISBN: 9780446676106
 1. Paolo Bacigalupi, *The Water Knife*. Vintage, 2016. 978-0804171533 
-ISBN: 978-1597808217
+ISBN: 
 
 Your course grade will be based on Participation and Quizzes (10%), Digital Projects (50%), one Midterm Exam (20%), and one Final Exam (20%).   
 
