@@ -40,8 +40,6 @@ ISBN: 9781401245252
 1. Neal Stephenson, *Snow Crash*. Del Rey 2000. ISBN: 9780553380958
 1. Octavia E. Butler, *Lilith’s Brood*. New York: Grand Central Publishing, 2000. 
 ISBN: 9780446676106
-1. Paolo Bacigalupi, *The Water Knife*. Vintage, 2016. 978-0804171533 
-ISBN: 
 
 Your course grade will be based on Participation and Quizzes (10%), Digital Projects (50%), one Midterm Exam (20%), and one Final Exam (20%).   
 
