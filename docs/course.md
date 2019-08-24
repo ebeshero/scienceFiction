@@ -19,7 +19,7 @@ Taught by: Elisa Beshero-Bondar (“Dr. B”), Associate Professor of English an
 Office Hours in FOB 204: 
 
 * Wed. 4 - 5:30 pm
-* Thurs. 1:30 - 3 PM
+* Thurs. 1:15 - 3 PM
 * and by appointment
 
 
