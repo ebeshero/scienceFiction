@@ -4,7 +4,7 @@
 
 <img src="CorreaMartians2.jpg" alt="illustration by Brazilian artist Henrique Alvim-Corrêa to the first French translation of H. G. Wells' The War of the Worlds (1906)" id="mbpb"/>
 
-In reading a novel of ideas like this, it helps to annotate the language to look up unfamiliar words and historical references, to provide pictures and media to help an idea from the past come to life in our moment. The assignment involves us writing online annotations as a class group on [the Project Gutenberg HTML edition of *The War of the Worlds*](http://www.gutenberg.org/files/36/36-h/36-h.htm). We will work with the free online annotation software, [Hypothes.is](https://web.hypothes.is/), which will involve some quick initial configuration, which we will do together in class.
+In reading a novel of ideas like this, it helps to annotate the language to look up unfamiliar words and historical references, to provide pictures and media to help an idea from the past come to life in our moment. The assignment involves us writing online annotations as a class group on [the Project Gutenberg HTML edition of *The War of the Worlds*](http://www.gutenberg.org/files/36/36-h/36-h.htm). We will work with the free online annotation software, [Hypothes.is](https://web.hypothes.is/), which will involve some quick initial configuration that we will do together in class.
 
 ### Hypothes.is Annotation 
 1. Start by setting up a free account here: <https://web.hypothes.is/start/>
