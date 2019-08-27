@@ -25,9 +25,9 @@ As you read, write annotations in hypothes.is to:
 * Raise questions and respond to each other’s annotations.
 
 Aim to write at least 5 annotations as you read, for each of the three class periods over which we are discussing the novel, for a total of at least 15 - 18 (and you may write more if you wish). Your writing for this assignment is entirely in the annotations you are drafting, so think of these as a series of short explanatory and conversational pieces tuned to specific passages of the play. I will be evaluating your annotations for:
-* accuracy in representing definitions and context
-* accuracy and relevance in commentary on the play
-* clear writing and helpfulness of your annotations in adding to the discussion surrounding this play. 
+* accuracy in representing definitions and context and pointing to external resources
+* accuracy and relevance in commentary on the novel
+* clear writing and helpfulness of your annotations in adding to the discussion surrounding this novel. 
 
 
 *Image source: “Horrifying 1906 Illustrations of H.G. Wells’ War of the Worlds: Discover the Art of Henrique Alvim Corrêa”* Open Culture *9/2/2015. <http://www.openculture.com/2015/09/the-first-illustrations-of-h-g-wells-war-of-the-worlds.html>.* 
