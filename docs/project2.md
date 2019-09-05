@@ -2,7 +2,7 @@
 ## A creative exercise in speculative media development
 
 
-### due: Saturday 9/22 by 11:59pm 
+### due: Saturday 9/21 by 11:59pm 
 
 In the spirit of Orson Welles' accomplishment in his 1938 radio adaptation of H. G. Wells' novel *The War of the Worlds*, your task with this assignment is to select a segment from *Do Androids Dream of Electric Sheep* to re-create and develop as an audio experience, and *adapt* it to make it sound *plausible* or consistent with our reality. 
 
