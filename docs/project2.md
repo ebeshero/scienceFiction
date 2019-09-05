@@ -4,7 +4,7 @@
 
 ### due: Saturday 9/22 by 11:59pm 
 
-In the spirit of Orson Welles' accomplishment in his 1938 radio adaptation of H. G. Wells' novel *The War of the Worlds*, your task with this assignment is to select a segment from *Do Androids Dream of Electric Sheep* to adapt into an audio experience, and *adapt* it to make it sound *plausible* or consistent with our reality. 
+In the spirit of Orson Welles' accomplishment in his 1938 radio adaptation of H. G. Wells' novel *The War of the Worlds*, your task with this assignment is to select a segment from *Do Androids Dream of Electric Sheep* to re-create and develop as an audio experience, and *adapt* it to make it sound *plausible* or consistent with our reality. 
 
 To be successful with this assignment, you'll want to balance your voice with special sound effects that you could generate yourself or adapt from sources on the web. You want to first locate some sound technology that will work with devices you have readily available--your mobile phone or tablet, for example. 
 
