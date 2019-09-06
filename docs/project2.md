@@ -13,6 +13,7 @@ Options for sound recording:
 * Mobile apps: GarageBand is a great option for iOS devices, and there are [several good audio apps apps](https://www.scriptosphere.com/5-best-audio-recording-apps-android/) you can try for Android phones. 
 * Computers: [Audacity](https://www.audacityteam.org/) is an old free, reliable cross-platform software with good documentation
 * Please export your file as an .mp3 , a standard audio format. 
+    * Access and save to an online Box directory (on Pitt's Box network) that I will create for each of you.
 
 ### How to get started:
 * Listen to Orson Welles' radio production for a while to get some clues and ideas for sound effects to try. 
