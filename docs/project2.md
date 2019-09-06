@@ -9,7 +9,9 @@ In the spirit of Orson Welles' accomplishment in his 1938 radio adaptation of H.
 To be successful with this assignment, you'll want to balance your voice with special sound effects that you could generate yourself or adapt from sources on the web. You want to first locate some sound technology that will work with devices you have readily available--your mobile phone or tablet, for example. 
 
 ### Tech you need: 
-* GarageBand is a great option for iOS devices, and there are [several good audio apps apps](https://www.scriptosphere.com/5-best-audio-recording-apps-android/) you can try for Android phones. 
+Options for sound recording:
+* Mobile apps: GarageBand is a great option for iOS devices, and there are [several good audio apps apps](https://www.scriptosphere.com/5-best-audio-recording-apps-android/) you can try for Android phones. 
+* Computers: [Audacity](https://www.audacityteam.org/) is an old free, reliable cross-platform software with good documentation
 * Please export your file as an .mp3 , a standard audio format. 
 
 ### How to get started:
