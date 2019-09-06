@@ -23,15 +23,15 @@ Options for sound recording:
 
 To be successful with this exercise, you must do more than simply read the text out loud. I will be looking for signs that you have altered it in at least **two or more** of the following ways:
 
-1. **Make it sound plausible in our moment**: Change events so that they resonate with something happening in our moment--something we can recognize from everyday news. (You might make reference to current government officials or crisis events, or to reference technology we are familiar with.)
+1. **Make it sound plausible in our moment**: Change events so that they resonate with something happening in our moment--something we can recognize from everyday news. (You might refer to current government officials or crisis events, or represent technology we are familiar with.)
 
 1. **Or, make it sound plausible in the world of the text**: Create your adaptation as if the time and setting of the text were real (for example, as if there had really been a World War Terminus, etc.) In this case, make sure that the sound effects and language **are consistent** with the rules of the world in the text.   
 
-1. **Create nonverbal sound effects** Make it the event sound as if it is live and happening currently, and make this as realistic as you can. For this you should actively seek out or create your own sound effects. 
+1. **Create nonverbal sound effects** Make the event sound as if it is live and happening currently, and make this as realistic as you can. For this you should actively seek out or create your own sound effects. 
 
 1. **Alter the language in the original**: You might cut the language of description but don't lose the substance of it. You might even change the events to make this adapatable to our moment. Do not change it so much that there is nothing recognizable to connect this with the original.
 
-Your creative adaptation needs to build on or reply to a passage from the text you chose, and represents your interpretation of it.
+Your creative adaptation needs to build on or reply to the passage you chose, and it represents your interpretation of it.
 
 ## Create and submit two files:
 
