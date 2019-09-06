@@ -11,7 +11,7 @@ To be successful with this assignment, you'll want to balance your voice with sp
 ### Tech you need: 
 Options for sound recording:
 * Mobile apps: GarageBand is a great option for iOS devices, and there are [several good audio apps apps](https://www.scriptosphere.com/5-best-audio-recording-apps-android/) you can try for Android phones. 
-* Computers: [Audacity](https://www.audacityteam.org/) is an old free, reliable cross-platform software with good documentation
+* Computers: [Audacity](https://www.audacityteam.org/) is an old free, reliable cross-platform software with good documentation.
 * Please export your file as an .mp3 , a standard audio format. 
     * Access and save to an online Box directory (on Pitt's Box network) that I will create for each of you.
 
@@ -21,7 +21,7 @@ Options for sound recording:
 * Work on adapting the descriptive language and dialogue (if any) in the text into something that involves voice cues and sound effects. You might start by copying the text into a file and editing it to add and alter material. 
 * Think of new content to add of your own to help develop this episode in a creative new way. 
 
-To be successful with this exercise, you **must** do more than simply read the text out loud. I will be looking for signs that you have altered it in at least **two or more** of the following ways:
+To be successful with this exercise, you must do more than simply read the text out loud. I will be looking for signs that you have altered it in at least **two or more** of the following ways:
 
 1. **Make it sound plausible in our moment**: Change events so that they resonate with something happening in our moment--something we can recognize from everyday news. (You might make reference to current government officials or crisis events, or to reference technology we are familiar with.)
 
