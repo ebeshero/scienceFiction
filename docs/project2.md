@@ -1,4 +1,4 @@
-# [Science Fiction](https://ebeshero.github.io/scienceFiction/): Digital Project 2: Sound Composition 
+# Digital Project 2: Sound Composition 
 ## A creative exercise in speculative media development
 
 ### test and choose audio recording tech by Tuesday 9/10
