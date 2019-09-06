@@ -35,7 +35,7 @@ Your creative adaptation needs to build on or reply to a passage from the text y
 
 ## Create and submit two files:
 
-1. Generate a 3-5 minute sound-clip of your creative adaptation, and save it as an mp3 file.
+1. Generate a sound-clip of your creative adaptation, and save it as an mp3 file. (Your sound-clip should be at least 3 minutes and at max about 10 minutes long. 5 minutes is a reasonable length.)
 1. Draft a short piece (a few paragraphs) documenting your decisions about what you selected and how you decided to alter it to help me understand what you've attempted to accomplish. This can be a text file or word-processed document, or a webpage or blog entry if you keep a blog and want to feature your work online.
 
 **Filenames**: Use this format to name your files, to be sure they're associated together.
