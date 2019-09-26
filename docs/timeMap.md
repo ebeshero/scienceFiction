@@ -16,4 +16,9 @@ Your Starter Google sheet:
 1. On your Google Sheet, click on **File > Publish to the Web**. NOTE: IGNORE AND DO NOT COPY THE LINK YOU SEE ON THE "PUBLISH TO THE WEB" SCREEN. IT IS NOT HELPFUL FOR TIMEMAPPER. THE LINK YOU WANT IS IN THE NEXT STEP!
 1. Find and click the green button labeled “Share” in the upper right corner of the Google Sheet. It is most likely set to “OFF - only specific people can access.” Click the down arrow next to the share setting to see your choices, and select “Anyone on the internet **can find and view**”. Your screen should look like this: 
 ![share-setting](googleSheetShare.png)
+1. To learn what the various fields are for in this sheet, consult this [helpful sheet from TimeMapper](https://docs.google.com/spreadsheets/d/1LlYBnfhvD3ZUXMGZ8e52UwYp-xn_NeWmaGBx7VBz5V8/edit?usp=sharing) with explanations of the column headings and the geo-mapping formula.
+
+Now you are ready to share your Google Sheet with TimeMapper to build a web visualization. 
+
+
 
