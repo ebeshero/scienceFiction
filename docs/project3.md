@@ -1,6 +1,6 @@
 # Digital Project 3: Time-mapping Alternate Realities
 
-### due: TBD
+### due: TBA
 
 {% include embed.html %}
 
