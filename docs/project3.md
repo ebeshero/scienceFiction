@@ -1,6 +1,6 @@
 # Digital Project 3: Time-mapping Alternate Realities in Science Fiction
 
-    <iframe src="http://timemapper.okfnlabs.org/epyllia/sf-starter-timemapper?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"> </iframe>
+{% include embed.html %}
 
 Starting with *Watchmen*, begin keeping a digital record of the interweaving of historic events with events in science fiction. Work with Google Sheets and the TimeMapper visualization software. 
 
