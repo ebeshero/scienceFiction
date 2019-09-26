@@ -16,6 +16,9 @@ You will need to share links to two resources:
 2. your TimeMap 
 [where? CW discussion board?]
 
+### Requirements [under development]
+Supply at least 10 entries (a combination of fictional and real events) for *Watchmen* to begin this assignment.
+
 ### Building a Good TimeMap
 
 Building a good TimeMap is all about patient curation of information and careful writing in the Google Sheets template, as well as careful testing and reviewing of the visualization in TimeMapper on the web. 
