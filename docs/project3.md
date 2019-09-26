@@ -16,7 +16,11 @@ You will need to share links to two resources:
 2. your TimeMap 
 [where? CW discussion board?]
 
+### Building a Good TimeMap
 
+A TimeMap is not helpful if it contains inaccurate information either from history or fiction. Reference and link out to authoritative and worthwhile resources on historical events. Describe events *in your own words* with emphasis on the relevance of an event to the science fiction text(s) we are reading. When representing fictional events, refer to chapters, pages, and/or panels (if referring to *Watchmen*) to help the viewer locate passages. 
+
+Your TimeMap need not record every single historical or fictional event, but rather select representative events that help with a visual interweaving of relevant historical events. You are a curator of alternative timelines with this assignment, and your curation should help illuminate interesting connections between our reality and the fictional worlds of science fiction. 
 
 
 [Return to Science Fiction syllabus](https://ebeshero.github.io/scienceFiction/)
