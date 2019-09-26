@@ -9,7 +9,7 @@ Science fiction often takes an explicit point of departure from historical event
 
 ### Tech you need: 
 * You will need a Google account to work with Google Sheets.
-* [Follow my instructions and templates](timeMapInstruct.md) to prepare a Google Sheet file and TimeMap
+* [Follow my instructions and templates](timeMap.md) to prepare a Google Sheet file and TimeMap
 
 You will need to share links to two resources:
 1. your Google Sheet 
