@@ -17,7 +17,8 @@ You will need to share links to two resources:
 [where? CW discussion board?]
 
 ### Requirements [under development]
-Supply at least 10 entries (a combination of fictional and real events) for *Watchmen* to begin this assignment.
+To start: supply at least 10 entries (a combination of fictional and real events) for *Watchmen* to begin this assignment. 
+At least 5 of these entries must be historical.
 
 ### Building a Good TimeMap
 
