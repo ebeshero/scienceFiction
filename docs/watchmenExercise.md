@@ -17,11 +17,11 @@ D. Consider a long text document that Moore represents within the comic—as an 
 
 ## Responses:
 ### Chapter III
-* [text associated with scenes outside the panel](https://docs.google.com/document/d/1Y_0IaVlpXbRz80g0WtP4Vj5okV7P6JPN9jA1W32uBrY/edit?usp=sharing)
+* [Text associated with scenes outside the panel](https://docs.google.com/document/d/1Y_0IaVlpXbRz80g0WtP4Vj5okV7P6JPN9jA1W32uBrY/edit?usp=sharing)
 
 ### Chapter IV
 * [Color and scale](https://docs.google.com/document/d/1pcSuuDqGU9VuPp-BFXg-_Yrl04OKhV6ga7MI2b9Bc7o/edit?usp=sharing)
-* [images of time](https://docs.google.com/document/d/1bGOtWWv-keL5D8dW2HUTR4K8PIhHktwOdjr7Z3lANoE/edit?usp=sharing)
+* [Spoken words from other settings](https://docs.google.com/document/d/1bGOtWWv-keL5D8dW2HUTR4K8PIhHktwOdjr7Z3lANoE/edit?usp=sharing)
 * [images of power and time](https://docs.google.com/document/d/1i0Ai_H4ya2sWuOwZ4er9gAQCb5iw0oaxehzLFuC6Lyo/edit?usp=sharing)
 
 ### Chapter V
