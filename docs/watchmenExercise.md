@@ -17,7 +17,7 @@ D. Consider a long text document that Moore represents within the comic—as an 
 
 ## Responses:
 ### Chapter III
-* [linkage of speech bubbles with disconnected scenes](https://docs.google.com/document/d/1Y_0IaVlpXbRz80g0WtP4Vj5okV7P6JPN9jA1W32uBrY/edit?usp=sharing)
+* [text associated with scenes outside the panel](https://docs.google.com/document/d/1Y_0IaVlpXbRz80g0WtP4Vj5okV7P6JPN9jA1W32uBrY/edit?usp=sharing)
 
 ### Chapter IV
 * [Color and scale](https://docs.google.com/document/d/1pcSuuDqGU9VuPp-BFXg-_Yrl04OKhV6ga7MI2b9Bc7o/edit?usp=sharing)
