@@ -21,6 +21,7 @@ D. Consider a long text document that Moore represents within the comic—as an 
 
 ### Chapter IV
 * [Color and scale](https://docs.google.com/document/d/1pcSuuDqGU9VuPp-BFXg-_Yrl04OKhV6ga7MI2b9Bc7o/edit?usp=sharing)
+* [images of time](https://docs.google.com/document/d/1bGOtWWv-keL5D8dW2HUTR4K8PIhHktwOdjr7Z3lANoE/edit?usp=sharing)
 * [images of power and time](https://docs.google.com/document/d/1i0Ai_H4ya2sWuOwZ4er9gAQCb5iw0oaxehzLFuC6Lyo/edit?usp=sharing)
 
 ### Chapter V
