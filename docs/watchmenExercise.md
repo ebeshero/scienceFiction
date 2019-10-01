@@ -25,11 +25,10 @@ D. Consider a long text document that Moore represents within the comic—as an 
 * [images of power and time](https://docs.google.com/document/d/1i0Ai_H4ya2sWuOwZ4er9gAQCb5iw0oaxehzLFuC6Lyo/edit?usp=sharing)
 
 ### Chapter V
-* [Color and shading](https://docs.google.com/document/d/1u7Mu40NhfEkpj3GUugAJEJ5cSaHuYvurs6CDlF3g3No/edit?usp=sharing)
 * [Scale and color](https://docs.google.com/document/d/1619hqwT4EPjqSvIoREAevpJ7poGkWqHx2Hr5BvgHg9w/edit?usp=sharing)
 
 ### Chapter VI
-* [Group 2: Color](https://docs.google.com/document/d/1u7Mu40NhfEkpj3GUugAJEJ5cSaHuYvurs6CDlF3g3No/edit?usp=sharing)
+* [Color and shading](https://docs.google.com/document/d/1u7Mu40NhfEkpj3GUugAJEJ5cSaHuYvurs6CDlF3g3No/edit?usp=sharing)
 * [Document analysis at end of chapter](https://docs.google.com/document/d/1ey_O3AXjluz1T4OjXr7uKaTNfuG_hri36bt6Cbu14uI/edit?usp=sharing)
 
 ### Chapter VII
