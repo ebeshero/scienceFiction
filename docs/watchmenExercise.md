@@ -39,7 +39,7 @@ D. Consider a long text document that Moore represents within the comic—as an 
 * [Media](https://docs.google.com/document/d/1Re0rXXyJ7UWubQvx5gRtG4zytbtpi-49XsrDv40NJgo/edit?usp=sharing)
 
 ### Chapter IX
-[Color and shading](https://docs.google.com/document/d/1dHMV_ujy2ayIFYG-jP243eLWcC9y5i5W9a3MSKCSIm4/edit?usp=sharing)
+* [Color and shading](https://docs.google.com/document/d/1dHMV_ujy2ayIFYG-jP243eLWcC9y5i5W9a3MSKCSIm4/edit?usp=sharing)
 
 
 
