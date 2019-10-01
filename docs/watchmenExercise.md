@@ -29,7 +29,6 @@ D. Consider a long text document that Moore represents within the comic—as an 
 * [Scale and color](https://docs.google.com/document/d/1619hqwT4EPjqSvIoREAevpJ7poGkWqHx2Hr5BvgHg9w/edit?usp=sharing)
 
 ### Chapter VI
-* [Group 1: Scale and color](https://docs.google.com/document/d/1619hqwT4EPjqSvIoREAevpJ7poGkWqHx2Hr5BvgHg9w/edit?usp=sharing)
 * [Group 2: Color](https://docs.google.com/document/d/1u7Mu40NhfEkpj3GUugAJEJ5cSaHuYvurs6CDlF3g3No/edit?usp=sharing)
 * [Document analysis at end of chapter](https://docs.google.com/document/d/1ey_O3AXjluz1T4OjXr7uKaTNfuG_hri36bt6Cbu14uI/edit?usp=sharing)
 
