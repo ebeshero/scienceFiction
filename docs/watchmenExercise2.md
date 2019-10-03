@@ -11,7 +11,7 @@ Which ones are most especially effective and why?
 * Where else does the pirate comic mirror or comment on events in the main storyline? (See especially Chapters VIII and X.)
 * How is the writer of the pirate comic, Max Shea, connected with the events at the end of the novel?
 
-![Ch. VIII page 26, panels 4-7](wmCh8_26p4-7)
+![Ch. VIII page 26, panels 4-7](wmCh8_26p4-7.png)
 Above: Chapter VIII page 26, panels 4-7
 
 ![Ch. X pag 23, panels 7-9](wmCh10_23p7-9.png)
