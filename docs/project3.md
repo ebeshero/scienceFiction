@@ -1,6 +1,6 @@
 # Digital Project 3: Time-mapping Alternate Realities
 
-### due: TBA
+### due: T 10/8
 
 {% include embed.html %}
 
@@ -16,9 +16,9 @@ You will need to share links to two resources:
 2. your TimeMap 
 [where? CW discussion board?]
 
-### Requirements [under development]
-To start: supply at least 10 entries (a combination of fictional and real events) for *Watchmen* to begin this assignment. 
-At least 5 of these entries must be historical.
+### Requirements 
+To start: supply at least 20 entries (a combination of fictional and real events) for *Watchmen* to complete this assignment. 
+At least 8 of these entries must be historical. And at least 8 events must be from the fictional world. 
 
 ### Building a Good TimeMap
 
