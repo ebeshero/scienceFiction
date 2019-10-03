@@ -1,4 +1,4 @@
-# [Science Fiction](https://ebeshero.github.io/scienceFiction/): *Watchmen* Analysis Exercise 2
+# [Science Fiction](https://ebeshero.github.io/scienceFiction/): *Watchmen* “in the final analysis”
 
 Images from [ReadComicOnline.to](https://readcomiconline.to/Comic/Watchmen) (a web reproduction of the 12 issues of *Watchmen* first published serially)
 
