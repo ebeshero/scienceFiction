@@ -20,7 +20,7 @@ Begin setting it up following my [starter template file](https://docs.google.com
 
 To help give you an idea of how you can build “maps” or networks with the date you are collecting, here are some sample files:
 * [a sample Google Sheet](https://docs.google.com/spreadsheets/d/1WXT_LTlJPqyUCy1wv8JjCA-tu3WhM37owPKaqBDKLas/edit?usp=sharing) that I began with a set of data on people and objects on and offstage in the play.
-* Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/dr-bs-august-wilson-experimental-network#augustwilsonstarter).
+* Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/handmaidstale).
 
 ### Class directory of links:
 Please record <a href="https://docs.google.com/document/d/1nbu16hTnIl2d8RTl3aniPZ2fmAfVMSS3dZxdivAUpVU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>. This page (below the directory) also contains detailed advice and codeblocks for customizing your network visualization in Kumu.
@@ -34,7 +34,7 @@ You do not have to plot out every kind of relationship imaginable, but choose to
 
 Choose the words you use for the Type and Tags columns with care to help you make an easily readable visualization. It’s best if the categorical words you apply for Types and Tags are reusable at least once. Run the Social Network Analysis function in Kumu to generate metrics to use in sizing your nodes and weighting your connections. 
 
-### Phase 3: Analysis and Reflection: Essay
+### Phase 3: Analysis and Reflection: Essay 
 Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process.  
 
 Carefully inspect the networks you have made, and note patterns that look significant in the relationships you have graphed. Now, survey your visualization. (In the process of doing this, you may want to add some nodes and connections to make sure you have been as complete as you can be in what you decided to show about the plays. You may also want to revise the way you are displaying your graph based on network statistics and the advanced editing options, to change the size and shape of your nodes and edge connections.) If you have updated or changed your links to your Google Sheets or your Kumu graphs, be sure to update your links on [our Google Sheet directory](https://docs.google.com/document/d/1nbu16hTnIl2d8RTl3aniPZ2fmAfVMSS3dZxdivAUpVU/edit?usp=sharing). 
