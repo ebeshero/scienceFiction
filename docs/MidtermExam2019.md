@@ -51,7 +51,7 @@ Paste links to your Google Sheet and to your Kumu.io map here, making sure that 
  
 2. In some way, each of our readings has addressed the topic of human evolution. Choose two readings to investigate how they address this topic, whether in addressing degradation or advancement of humanity (or both). How does the encounter with alien forms in these readings show us something significant about humanity? In your conclusion, compare and/or contrast the  perspective on humanity's weaknesses and/or potential in these readings. Work with at least one or two representative examples per text, and be sure to develop a comparison or contrast in your response.  
 
-3. *It's the end of the world as we know it.* —R. E. M. Our readings frequently explore in stark detail the experience of conquest by war and resistance, whether in the form of world or regional domination. Compare and/or contrast the way *The Handmaid's Tale* and one other reading represent mechanisms of conquest, their alteration of people, and the possibilities for resistance. To what extent do we see evidence of each world changing significantly by the end of the text? 
+3. *“It's the end of the world as we know it.” —R. E. M.* Our readings frequently explore in stark detail the experience of conquest by war and resistance, whether in the form of world or regional domination. Compare and/or contrast the way *The Handmaid's Tale* and one other reading represent mechanisms of conquest, their alteration of people, and the possibilities for resistance. To what extent do we see evidence of each world changing significantly by the end of the text? 
 
 
 
