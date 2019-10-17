@@ -4,7 +4,7 @@
 * *Create a separate file of your own to save in your own space containing your responses to this exam. You may wish to just copy and paste the questions from this page into your file. Because the exam is a private context (you are writing it on your own and I am responding to you in person with comments and my evaluation), it will be easiest for me to receive your work as a Word document: Save your work with the **.docx** file extension and submit it through the upload point for it on Courseweb.* 
 
 * *You may not collaborate with others on writing this exam, and essays will be screened for originality.*
-* *Write your essay exam in a computer file as a word-processed document or text file, and save this **with your last name in the file name**, as in Yourlastname-MidtermExam.doc. Upload your file before the deadline at **11:59 PM on Tuesday October 22**.* 
+* *Write your essay exam in a computer file as a word-processed document or text file, and save this **with your last name in the file name**, as in Yourlastname-MidtermExam.doc. Upload your file before the deadline at **11:59 PM on Tuesday, October 22**.* 
 * *To work efficiently, read the questions carefully and quickly outline your response to help guide your writing. Support your points by referring to specific characters, examples, and episodes from the readings and include quoted passages from the readings.* 
 
 
