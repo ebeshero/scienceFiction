@@ -35,8 +35,11 @@
 10. Identify and briefly describe specific environmental and health-related issues that characterize an altered *secondary* world (distinct from our reality, though perhaps related to it) discussed in each of our texts. Locate specific evidence (by page in your books, or chapter/paragraph in the *War of the Worlds*) describing environmental concerns in each text. 
 
 
-### Concept Mapping Section (20 pts)
+### Concept Mapping Section (20 points)
 Prepare a concept map in Kumu.io to network our reading so far based on recurring concepts and motifs that you identify. Begin this with a Google Sheet you create and share with me in your Google Drive space: On your sheet, start by representing each of our readings so far as one kind of element. Make another kind of element that represents concepts or motifs that you find key to these books. Draw connections (using the Connections tab) between the readings and these concepts, and design your map so that it indicates *at least four* concepts or motifs that connect our readings so far, as well as *at least two concepts or motifs* that distinguish the books from each other. (Two books might be connected to each other but not to all the others in your map, depending on what you want to describe in your map.) 
+
+Here is a Google Sheet you may use as a template to get you started, listing each of our books.
+[Google Sheet Starter Template](https://docs.google.com/spreadsheets/d/1J5BqxGcowhpv49ni9lv_ic8wCCgkk2qWaxXVukxvQas/edit?usp=sharing)
 
 Paste links to your Google Sheet and to your Kumu.io map in your exam file. Make sure that each is visible to me, following the process you’ve begun for [Digital Project 4](project4.html).
 
