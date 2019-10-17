@@ -1,4 +1,4 @@
-# Fall 2017 Take-Home Midterm Exam
+# Fall 2019 Take-Home Midterm Exam
 
 ## Instructions
 *Carefully read  the essay topics below, and **choose three** that you are best prepared to answer, and respond in a separate file of your own. Over the course of the three essays you must discuss in some way each of the  assigned readings in our class so far.* 
