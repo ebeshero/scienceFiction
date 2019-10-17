@@ -1,4 +1,4 @@
-# Fall 2019 Take-Home Midterm Exam
+# Fall 2019 Take-Home Midterm Exam for Science Fiction
 
 ## Instructions
 * *Create a separate file of your own to save in your own space containing your responses to this exam. You may wish to just copy and paste the questions from this page into your file. Because the exam is a private context (you are writing it on your own and I am responding to you in person with comments and my evaluation), it will be easiest for me to receive your work as a Word document: Save your work with the **.docx** file extension and submit it through the upload point for it on Courseweb.* 
@@ -8,7 +8,7 @@
 * *To work efficiently, read the questions carefully and quickly outline your response to help guide your writing. Support your points by referring to specific characters, examples, and episodes from the readings and include quoted passages from the readings.* 
 
 
-### Short Answer Section
+### Short Answer Section (five questions of 5 points each; total: 25 points)
 *Carefully read and select from each section the questions you are best prepared to answer. Record the number of the question you are answering your file  and respond in precise phrases or a few sentences as required. To work efficiently, focus on giving only  the information I am asking for! Bonus: You may answer ONE additional question in ANY section for extra credit.  
 
 *Answer one of the following two*
@@ -39,6 +39,7 @@
 ### Concept Mapping Section (20 pts)
 Prepare a concept map in Kumu.io to network our reading so far based on recurring concepts and motifs that you identify. Begin this with a Google Sheet you create and share with me in your Google Drive space: On your sheet, start by representing each of our readings so far as one kind of element. Make another kind of element that represents concepts or motifs that you find key to these books. Draw connections (using the Connections tab) between the readings and these concepts, and design your map so that it indicates *at least four* concepts or motifs that connect our readings so far, as well as *at least two concepts or motifs* that distinguish the books from each other. (Two books might be connected to each other but not to all the others in your map, depending on what you want to describe in your map.) 
 
+Paste links to your Google Sheet and to your Kumu.io map here, making sure that each is visible to me (following what you've begun for Digital Project 4).
 
 
 
