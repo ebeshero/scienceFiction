@@ -25,8 +25,8 @@ To help give you an idea of how you can build “maps” or networks with the da
 ### Class directory of links:
 Please record <a href="https://docs.google.com/document/d/1nbu16hTnIl2d8RTl3aniPZ2fmAfVMSS3dZxdivAUpVU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>. This page (below the directory) also contains detailed advice and codeblocks for customizing your network visualization in Kumu.
 
-### Phase 2: Building networks 
-Once you have worked out how to organize data into columns and customize displays of of your network, work on designing a network analysis for *The Handmaid’s Tale*.
+### Phase 2: Building your first network 
+Once you have worked out how to organize data into columns and customize displays of of your network, work on designing a network analysis for *The Handmaid’s Tale*. (In our first week, create a network that establishes 10 connections.)
 
 Your network should be developed from Elements with a coherently organized set of Types and Tags, and you should provide images and descriptions for at least the most important nodes. Elements can be anything you find significant: characters (on or offstage), objects on stage, events, locations, shared identities, etc. 
 
@@ -34,7 +34,11 @@ You do not have to plot out every kind of relationship imaginable, but choose to
 
 Choose the words you use for the Type and Tags columns with care to help you make an easily readable visualization. It’s best if the categorical words you apply for Types and Tags are reusable at least once. Run the Social Network Analysis function in Kumu to generate metrics to use in sizing your nodes and weighting your connections. 
 
-### Phase 3: Analysis and Reflection: Essay 
+### Phase 3: 
+Begin developing more networks as you are reading, creating more Google Sheets and visualizing them in Kumu. Your networks may visualize any kinds of relationships you note are important, and you may create multiple networks as you are reading. For example, one network may track physical interactions between individual Human and Oankali characters in *Lilith’s Brood*. Another might concentrate on representations of species difference and similarity: what traits do humans and Oankali share in common? How many distinct kinds of Oankali forms are there? What traits are confined distinctly to one group or another?
+
+
+### Phase 4: Analysis and Reflection: Essay 
 Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process.  
 
 Carefully inspect the networks you have made, and note patterns that look significant in the relationships you have graphed. Now, survey your visualization. (In the process of doing this, you may want to add some nodes and connections to make sure you have been as complete as you can be in what you decided to show about the text. You may also want to revise the way you are displaying your graph based on network statistics and the advanced editing options, to change the size and shape of your nodes and edge connections.) If you have updated or changed your links to your Google Sheets or your Kumu graphs, be sure to update your links on [our Google Sheet directory](https://docs.google.com/document/d/1nbu16hTnIl2d8RTl3aniPZ2fmAfVMSS3dZxdivAUpVU/edit?usp=sharing). 
