@@ -29,7 +29,7 @@ To help give you an idea of how you can build “maps” or networks with the da
 Please record <a href="https://docs.google.com/document/d/1nbu16hTnIl2d8RTl3aniPZ2fmAfVMSS3dZxdivAUpVU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>. This page (below the directory) also contains detailed advice and codeblocks for customizing your network visualization in Kumu.
 
 ### Phase 2: Building your first network 
-Once you have worked out how to organize data into columns and customize displays of of your network, work on designing a network analysis for *The Handmaid’s Tale*. (In our first week, create a network that establishes 10 connections.)
+Once you have worked out how to organize data into columns and customize displays of of your network, work on designing a network analysis for *The Handmaid’s Tale*. (In our first week, create a network that establishes 10 connections.  This is a short homework exercise and designed to orient you to creating a network.)
 
 Your network should be developed from Elements with a coherently organized set of Types and Tags, and you should provide images and descriptions for at least the most important nodes. Elements can be anything you find significant: characters (on or offstage), objects on stage, events, locations, shared identities, etc. 
 
@@ -40,9 +40,17 @@ Choose the words you use for the Type and Tags columns with care to help you mak
 ### Phase 3: 
 Begin developing more networks as you are reading, creating more Google Sheets and visualizing them in Kumu. Your networks may visualize any kinds of relationships you note are important, and you may create multiple networks as you are reading. For example, one network may track physical interactions between individual Human and Oankali characters in *Lilith’s Brood*. Another might concentrate on representations of species difference and similarity: what traits do humans and Oankali share in common? How many distinct kinds of Oankali forms are there? What traits are confined distinctly to one group or another?
 
+For Digital Project 4, construct a detailed network (based on either The Handmaid's Tale or Lilith's Brood). Your network should include
+* at least 20 distinct elements, 
+* at least two different Types of elements (using the Type column)
+* no more than four distinct Types.
+*
+You may establish connections in any way you wish. Connections can be made according to shared tags and/or roles (using the Tag or Role column), and/or using the Connections tab, which permits you to form particular connections between elements. 
+Use the network analyzer to supply network statistics to give you different sizes of nodes and to help organize your plot. Experiment with the Social Network Analysis function to give you metrics that help size your nodes, give weight to your connections, and organize the final graphs you choose to submit and write about for this assignment. This part of the assignment is due before class on T 11/5.
+
 
 ### Phase 4: Analysis and Reflection: Essay 
-Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process.  
+Begin the writing process by thinking about the decisions you made in graphing. Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process.  
 
 Carefully inspect the networks you have made, and note patterns that look significant in the relationships you have graphed. Now, survey your visualization. (In the process of doing this, you may want to add some nodes and connections to make sure you have been as complete as you can be in what you decided to show about the text. You may also want to revise the way you are displaying your graph based on network statistics and the advanced editing options, to change the size and shape of your nodes and edge connections.) If you have updated or changed your links to your Google Sheets or your Kumu graphs, be sure to update your links on [our Google Sheet directory](https://docs.google.com/document/d/1nbu16hTnIl2d8RTl3aniPZ2fmAfVMSS3dZxdivAUpVU/edit?usp=sharing). 
 
@@ -50,7 +58,7 @@ When you are happy with your data and your visualizations, think about what aspe
 
 Describe at the end of your first paragraph or the beginning of your second paragraph what clusters or patterns stand out to you in your networks. Develop the following paragraphs of your essay by reflecting on how these relate to the the contents of the novel, working with passages that help to higlight examples of the connections you are observing.
 
-Choose to concentrate this in any way that seems interesting, and write your essay to guide me through your graph to show me what I need to notice. Use your graphs to direct us back to passages of interest in the book (which you should quote or describe in detail with your book open and cite by page). These passages should help to highlight something important about the network you developed. Take your paper beyond the graphs you've created to help you discuss interesting patterns in the contents of the novel. Your paper should probably be 3 to 5 double-spaced pages long, or between 800 and 1500 words.
+Choose to concentrate this in any way that seems interesting, and write your essay to guide me through your graph to show me what I need to notice. Use your graphs to direct me back to passages of interest in the book (which you should quote or describe in detail with your book open and cite by page). These passages should help to highlight something important about the network you developed. Take your paper beyond the graphs you've created to help you discuss interesting patterns in the contents of the novel. Your paper should probably be 3 to 5 double-spaced pages long, or between 800 and 1500 words.
 
 Write a heading to your paper on the top left corner of page 1, but not appearing on later pages, giving the following information:
 
