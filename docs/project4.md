@@ -33,7 +33,7 @@ Once you have worked out how to organize data into columns and customize display
 
 Your network should be developed from Elements with a coherently organized set of Types and Tags, and you should provide images and descriptions for at least the most important nodes. Elements can be anything you find significant: characters (on or offstage), objects on stage, events, locations, shared identities, etc. 
 
-You do not have to plot out every kind of relationship imaginable, but choose to follow specific patterns and try to do so completely by finding *everything* of a kind. (If you are going to comment on character’s connected to stage objects, look at all the stage directions as well as dialogue and make sure you are capturing every object as it changes hands.) 
+You do not have to plot out every kind of relationship imaginable. Instead, choose to follow specific patterns and try to do so completely by finding *everything* of a kind. (If you are going to comment on character’s connected to stage objects, look at all the stage directions as well as dialogue and make sure you are capturing every object as it changes hands.) 
 
 Choose the words you use for the Type and Tags columns with care to help you make an easily readable visualization. It’s best if the categorical words you apply for Types and Tags are reusable at least once. Run the Social Network Analysis function in Kumu to generate metrics to use in sizing your nodes and weighting your connections. 
 
@@ -44,7 +44,7 @@ For Digital Project 4, construct a detailed network (based on either The Handmai
 * at least 20 distinct elements, 
 * at least two different Types of elements (using the Type column)
 * no more than four distinct Types.
-*
+
 You may establish connections in any way you wish. Connections can be made according to shared tags and/or roles (using the Tag or Role column), and/or using the Connections tab, which permits you to form particular connections between elements. 
 Use the network analyzer to supply network statistics to give you different sizes of nodes and to help organize your plot. Experiment with the Social Network Analysis function to give you metrics that help size your nodes, give weight to your connections, and organize the final graphs you choose to submit and write about for this assignment. This part of the assignment is due before class on T 11/5.
 
