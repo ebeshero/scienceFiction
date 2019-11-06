@@ -1,7 +1,7 @@
 ## Digital Project 4: Network and concept mapping
 
 ### Complete Kumu network by T 11/5
-### Complete essay by H 11/7
+### Complete essay by T 11/12
 
 ![Mind Map of the History of Science Fiction by Ward Shelley](mind-map-history-science-fiction.jpg)
 Source: [*Mind Map of the History of Science Fiction* by Ward Shelley](http://futurismic.com/2011/03/09/mind-map-of-the-history-of-science-fiction/)
@@ -69,4 +69,4 @@ Write a heading to your paper on the top left corner of page 1, but not appearin
   * Google Sheet
 * Date of Submission
 
-Upload your paper with your list of links for Digital Project 4 on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, **Thursday November 7 by 11:59pm**. 
+Upload your paper with your list of links for Digital Project 4 on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, **Tuesday November 12 by 11:59pm**. 
