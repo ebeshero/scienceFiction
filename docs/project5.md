@@ -9,11 +9,12 @@ Choose a topic from the list below on which to organize an informational graphic
 
 ### Option 1: TimeMapper topic:
 Create a Google Sheet to be readable by TimeMapper for this option. Identify between 15 and 20 technologies represented in Snow Crash that are or have been realized in our world. Organize your TimeMapper to display whether these technologies
-     a) are ancient technologies,
+    * are ancient technologies,
      
-     b) are recognizably derived from 20th-century technologies (e.g. have origins in the decades preceding the publication of Snow Crash), 
+     * are recognizably derived from 20th-century technologies (e.g. have origins in the decades preceding the publication of Snow Crash), 
      
-     c) predict the future and anticipate technologies we have today.
+     * predict the future and anticipate technologies we have today.
+     
 Your TimeMap should represent some combination of all three of these, regardless of how you choose to develop your essay. Plot your TimeMapper to represent the place and time period or year *in the real world* associated with the invention of the technologies you have chosen. The TimeMapper needs to include links to relevant resources and should reference passages in the novel that feature each technology you choose to represent. 
      
 #### Drafting the essay: 
