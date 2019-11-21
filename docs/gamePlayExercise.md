@@ -16,6 +16,6 @@ Take notes on the following:
 * How are you challenged as a game player in this game? What are you being asked to investigate, where do you get stuck, and how do you make progress in the game?
 
 * Where (if ever) do you see the game comment on itself in a "meta" way *as* a fictional, constructed system (as a game)? 
-* How might the game be commenting on our world, or our reality?
+* Where and how do you see the game respond to or comment on our reality? Or what cultural issues from our world do you see reflected in this game? 
 
 You may handwrite your notes on paper as you're playing, or type them up. The goal is to bring these to class with you in our last week together, as these notes document your doing the reading for our last week. Your notes count toward your total class exercise points for the semester.
