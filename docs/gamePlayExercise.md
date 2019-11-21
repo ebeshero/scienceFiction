@@ -18,4 +18,4 @@ Take notes on the following:
 * Where (if ever) do you see the game comment on itself in a "meta" way *as* a fictional, constructed system (as a game)? 
 * How might the game be commenting on our world, or our reality?
 
-
+You may handwrite your notes on paper as you're playing, or type them up. The goal is to bring these to class with you in our last week together, as these notes document your doing the reading for our last week. Your notes count toward your total class exercise points for the semester.
