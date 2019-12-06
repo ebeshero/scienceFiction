@@ -1,4 +1,4 @@
-# Fall 2019 Take-Home Science Fiction Final Exam
+# Fall 2019 Take-Home Final Exam
 
 ## Instructions
 * *Create a separate file of your own to save in your own space containing your responses to this exam. You may wish to just copy and paste the questions from this page into your file. Because the exam is a private context (you are writing it on your own and I am responding to you in person with comments and my evaluation), it will be easiest for me to receive your work as a Word document: Save your work with the **.docx** file extension and submit it through the upload point for it on Courseweb.* 
