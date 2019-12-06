@@ -7,7 +7,7 @@
 * *To work efficiently, read the questions carefully and quickly outline your response to help guide your writing. Support your points by referring to specific characters, examples, and episodes from the readings and include quoted passages from the readings.* 
 
 
-### Short Answer Section (five questions of 5 points each; total: 25 points)
+### Short Answer Section (10 questions of 5 points each; total: 50 points)
 *Carefully read and select from each section the questions you are best prepared to answer. Record the number of the question you are answering your file (as **A2.** for the second question in part A, for example). Respond in precise phrases or a few sentences as required. To work efficiently, focus on giving only the information I am asking for! Bonus: You may answer ONE additional question in ANY section for extra credit.*  
 
 *Part A. Answer two of the following four*
@@ -36,38 +36,39 @@
 
 
 *Part D. Answer one of the following two*
-1.	How are Raven and Hiro evenly matched as opponents? Explain three things they have in common.
+11.	How are Raven and Hiro evenly matched as opponents? Explain three things they have in common.
 
-2.	Where does Raven come from, and how are his cultural origins reflected in his motivation and the weaponry he uses? Identify two of Raven’s weapons in your response.
+12.	Where does Raven come from, and how are his cultural origins reflected in his motivation and the weaponry he uses? Identify two of Raven’s weapons in your response.
 
 *Part E. Answer one of the following two*
-3.	How did Y.T. get to know Uncle Enzo? What did the two of them learn or gain from each other?
+13.	How did Y.T. get to know Uncle Enzo? What did the two of them learn or gain from each other?
 
-4.	Explain two things that Y.T. and Raven have in common. 
+14.	Explain two things that Y.T. and Raven have in common. 
 
 *Part F. Answer one of the following three*
-5.	What unusual capacities does Juanita possess and retain as a result of her experiences as an “antennahead” on Rife’s ship? 
+15.	What unusual capacities does Juanita possess and retain as a result of her experiences as an “antennahead” on Rife’s ship? 
 
-6.	How is the Metaverse version of Snow Crash related to or different from the “real” world version?
+16.	How is the Metaverse version of Snow Crash related to or different from the “real” world version?
 
-7.	How does Hiro T. Protagonist save the Metaverse from Raven’s Snow Crash bomb? 
+17.	How does Hiro T. Protagonist save the Metaverse from Raven’s Snow Crash bomb? 
 
 
 *Part G. Answer two of the following four*
 
-8.	What is a nam-shub in Sumerian culture, and what is meant by the nam-shub of Enki? Why is this nam-shub important to the crisis and resolution of Snow Crash? 
+18.	What is a nam-shub in Sumerian culture, and what is meant by the nam-shub of Enki? Why is this nam-shub important to the crisis and resolution of Snow Crash? 
 
-9.	How does Stephenson link the biological concept of a virus with glossolalia? (Define the word glossolalia in your response.)
+19.	How does Stephenson link the biological concept of a virus with glossolalia? (Define the word glossolalia in your response.)
 
-10.	Why might Sumerians in their use of me have been especially susceptible to viruses?  Why are 3-ring binders analogous to me in the present time frame of Snow Crash?
+20.	Why might Sumerians in their use of me have been especially susceptible to viruses?  Why are 3-ring binders analogous to me in the present time frame of Snow Crash?
 
-11.	What forms of technology in Snow Crash help to bring about a happy ending? Identify two.
-
+21.	What forms of technology in Snow Crash help to bring about a happy ending? Identify two.
 
 
 
 ### Long Essay Section (30 points) 
-*Choose **one question** below to respond to in a multi-paragraph essay. Each essay asks you to compare and/or contrast two of our readings on a key issue so far. You may want to take a few minutes to focus on the question and quickly outline your response and locate passages from the readings you’d like to use for support before you begin writing. Support your points by referring to specific characters, examples, and episodes from the readings. Accuracy, specificity, and reflection are key to doing well with this section.
+*Choose **one question** below to respond to in a multi-paragraph essay. You may want to take a few minutes to focus on the question and quickly outline your response and locate passages from the readings you’d like to use for support before you begin writing. Support your points by referring to specific characters, examples, and episodes from the readings. Accuracy, specificity, and reflection are key to doing well with this section.*
+
+
 
 
 
