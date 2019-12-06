@@ -3,7 +3,7 @@
 ## Instructions
 * *Create a separate file of your own to save in your own space containing your responses to this exam. You may wish to just copy and paste the questions from this page into your file. Because the exam is a private context (you are writing it on your own and I am responding to you in person with comments and my evaluation), it will be easiest for me to receive your work as a Word document: Save your work with the **.docx** file extension and submit it through the upload point for it on Courseweb.* 
 * *You may not collaborate with others on writing this exam, and essays will be screened for originality.*
-* *Write your essay exam in a computer file as a word-processed document or text file, and save this **with your last name in the file name**, as in Yourlastname-MidtermExam.doc. Upload your file before the deadline at **11:59 PM on Tuesday, October 22**.* 
+* *Write your essay exam in a computer file as a word-processed document or text file, and save this **with your last name in the file name**, as in Yourlastname-MidtermExam.doc. Upload your file before the deadline at **11:59 PM on Thursday, December 12**.* 
 * *To work efficiently, read the questions carefully and quickly outline your response to help guide your writing. Support your points by referring to specific characters, examples, and episodes from the readings and include quoted passages from the readings.* 
 
 
@@ -59,7 +59,7 @@
 
 19.	How does Stephenson link the biological concept of a virus with glossolalia? (Define the word glossolalia in your response.)
 
-20.	Why might Sumerians in their use of me have been especially susceptible to viruses?  Why are 3-ring binders analogous to me in the present time frame of Snow Crash?
+20.	Why, according to *Snow Crash*, might Sumerians in their use of *me* have been especially susceptible to viruses?  What makes people in the present time of the text vulnerable to the Snow Crash virus? 
 
 21.	What forms of technology in Snow Crash help to bring about a happy ending? Identify two.
 
@@ -68,6 +68,10 @@
 ### Long Essay Section (30 points) 
 *Choose **one question** below to respond to in a multi-paragraph essay. You may want to take a few minutes to focus on the question and quickly outline your response and locate passages from the readings you’d like to use for support before you begin writing. Support your points by referring to specific characters, examples, and episodes from the readings. Accuracy, specificity, and reflection are key to doing well with this section.*
 
+1. The theorist Gwyneth Jones has proposed that science fiction is a thought experiment, in which the science fiction writer investigates a "what if" question by setting up controlled conditions in the plot. Let's investigate that idea and consider how it might apply to a science fiction game from the itch.io series we explored and to a novel⁠—either *Snow Crash* or a passage of *Lilith's Brood*. Consider how one or two main characters in the narrative of the game and in the novel investigate a question, and test conditions and limits on their environments. What controlled conditions do the authors set up for the experiments the characters must conduct? Finally, consider to what extent the experience of game play alters the dimensions of the experimentation we find in science fiction. How does a game invite you as the player to conduct experiments in the controlled conditions of the game and its characters, and how differently do novels vs. games present the experiments we associate with science fiction? 
+
+
+2. Following your experience with analyzing science fiction games on itch.io, consider how you might construct a video game scenario involving the main characters and important events in either *Lilith's Brood* or *Snow Crash*. In your essay, sketch out a game scenario that represents a portion of the world of the novel you've chosen, and explain how you would engage a game player in a challenging scenario that reproduces in some way that is consistent with the novel a key theme, event, or crisis scenario. Your planned adaptation will be evaluated for its precision in selecting details and events from the novel, and its reflection on how to adapt these to an interactive game environment. 
 
 
 
