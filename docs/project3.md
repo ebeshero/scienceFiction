@@ -14,7 +14,6 @@ Science fiction often takes an explicit point of departure from historical event
 You will need to share links to two resources:
 1. your Google Sheet 
 2. your TimeMap 
-[where? CW discussion board?]
 
 ### Requirements 
 Supply at least 20 entries (a combination of fictional and real events) for *Watchmen* to complete this assignment. 
